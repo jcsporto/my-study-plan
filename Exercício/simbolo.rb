@@ -19,3 +19,16 @@ p :Jean.object_id
 
 :"Jean"
 p :Jean.object_id
+
+:"Jean"
+p :Jean.object_id
+
+:"Jean"
+p :Jean.object_id
+
+:"Jean"
+p :Jean.object_id
+
+:"Jean"
+p :Jean.object_id
+
