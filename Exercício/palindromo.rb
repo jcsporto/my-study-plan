@@ -6,6 +6,6 @@ def palindromo?(palavra)
     palavra.downcase == palavra.downcase.reverse
 end
 
-puts palindromo?("ovo")
+puts palindromo?("Ave")
 puts palindromo?("Ovo")  #testendo 
-puts palindromo?("foo")
+puts "Manuella é palindromo?:  #{palindromo?("Manuella")}"
