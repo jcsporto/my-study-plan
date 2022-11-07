@@ -6,3 +6,10 @@
 puts "Digite seu nome: "
 nome = gets
 puts "Nome que foi digitado: #{nome}"
+
+#gets gera resultado com \n (quebra de linha)
+#chomp() retira o \n do resultado
+
+nome.chomp()
+
+ 
