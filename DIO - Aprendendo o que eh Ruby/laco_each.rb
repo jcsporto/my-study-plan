@@ -14,5 +14,12 @@ lista.each do |i|
     puts "usando each: #{i}"
 end
 
+#hash tbm responde ao each
+hash = {nome: "Jean", idade: 42}
+
+hash.each do |chave, valor|
+    puts "usando each no hash - chave #{chave} - valor #{valor}"
+end
+
 
 
