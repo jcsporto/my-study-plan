@@ -2,6 +2,15 @@
 #DIO - Aprendendo o que é Ruby - Laços
 
 
+
 for i in [1, 2, 3, 4, 5]
     puts "O número é #{i}"
+end
+
+
+#range
+range = 6..10
+
+for i in range
+    puts "Numero:  #{i}"
 end
