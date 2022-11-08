@@ -14,3 +14,8 @@ range = 6..10
 for i in range
     puts "Numero:  #{i}"
 end
+
+#range diretamente no for
+for i in (11..15)
+    puts "Numero:  #{i}"
+end
