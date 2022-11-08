@@ -4,7 +4,7 @@
 def soma(valor1, valor2)
     puts "Soma de #{valor1} e #{valor2}"
 
-    return valor1 + valor2
+    valor1 + valor2
 end
 
 
