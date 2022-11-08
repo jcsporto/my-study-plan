@@ -18,3 +18,12 @@ def soma_opcional(valor1, valor2=0)
 end
 
 puts soma_opcional(10)
+
+#agumentos nomeados
+def soma_com_parametros_nomeados(valor1:, valor2:)
+    soma(valor1, valor2)
+end
+
+puts "argumentso nomeados"
+
+puts soma_com_parametros_nomeados(valor2: 10, valor1: 5 )
