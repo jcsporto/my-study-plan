@@ -7,5 +7,14 @@ def soma(valor1, valor2)
     valor1 + valor2
 end
 
-
 puts soma(10, 5)
+
+
+#colocando valor no segundo parametro - ficar como opcional
+def soma_opcional(valor1, valor2=0)
+    puts "Soma com 2 parametro opcional #{valor1} e #{valor2}"
+
+    valor1 + valor2
+end
+
+puts soma_opcional(10)
