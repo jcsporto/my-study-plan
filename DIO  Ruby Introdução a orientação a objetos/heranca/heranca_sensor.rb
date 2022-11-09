@@ -15,6 +15,11 @@ class Sensor
 end
 
 class SensorTemperatura < Sensor
+    def coletar_mentiras
+        #inicializar_componentes_temperaturas
+        puts "estou coletando métricas de tempreatura"
+        super
+    end
 end
 
 
