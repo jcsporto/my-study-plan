@@ -1,29 +1,20 @@
-class MinhaClasse
-    attr_accessor :nome #getter e setter
-    #attr_reader :nome # apenas getter
-    #attr_writter :nome # apenas setter
-
+class Pessoa
+    attr_writter :nome
     def initialize(nome)
         @nome = nome
     end
 
-    def imprimir_ola(nome)
-        @nome = nome 
+    def imprimir_ola
         puts "Ola #{@nome}"
     end
 
-    # #getrs
-    # def nome
-    #     @nome
-    # end
-
-    # #setrs
     # def nome=(novo_nome)
     #     @nome = novo_nome
     # end
 end
 
+pessoa = Pessoa.new("Jean")
+pessoa.imprimir_ola
 
-pessoa = MinhaClasse.new("Jean")
 pessoa.nome = "Porto"
 pessoa.imprimir_ola
