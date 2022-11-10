@@ -2,8 +2,12 @@
 #DIO - Ruby: Intodução a orientação a objetos - Exercidio prático: Conta Bancaria
 
 class ContaBancaria
-    def def initialize(proprietario, valor_inical)
-      @proprietario, @valor = proprietario, valor_inical
+    def def initialize(proprietario, valor_inicial)
+      @proprietario, @valor = proprietario, valor_inicial
+    end
+
+    def transferir(outra_conta, valor)
+    
     end
 end
 
