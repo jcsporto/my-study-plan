@@ -2,6 +2,7 @@
 #DIO - Ruby: Intodução a orientação a objetos - Exercidio prático: Conta Bancaria
 
 #principal
+require "./classes/conta_bancaria"
 
 conta_jean = ContaBancaria.new("Jean", 120)
 conta_porto = ContaBancaria.new("Porto", 200)
