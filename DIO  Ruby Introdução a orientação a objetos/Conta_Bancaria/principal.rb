@@ -9,5 +9,8 @@ conta_porto = ContaBancaria.new("Porto", 200)
 
 conta_cadu.transferir(conta_porto, 50)
 
+p "Conta Jean"
 p conta_jean.saldo   #50
+
+p "Conta Porto"
 p conta_porto.saldo  #250
