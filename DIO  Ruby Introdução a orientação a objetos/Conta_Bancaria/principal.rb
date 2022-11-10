@@ -2,7 +2,7 @@
 #DIO - Ruby: Intodução a orientação a objetos - Exercidio prático: Conta Bancaria
 
 #principal
-require "./classes/conta_bancaria"
+require "./classes/conta_bancaria.rb"
 
 conta_jean = ContaBancaria.new("Jean", 120)
 conta_porto = ContaBancaria.new("Porto", 200)
@@ -14,3 +14,6 @@ p conta_jean.saldo   #50
 
 p "Conta Porto"
 p conta_porto.saldo  #250
+
+#caso de teste de conta sem saldo
+conta_jean
