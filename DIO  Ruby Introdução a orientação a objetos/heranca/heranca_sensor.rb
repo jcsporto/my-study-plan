@@ -1,3 +1,6 @@
+#https://web.dio.me/course/ruby-introducao-a-orientacao-a-objetos/learning/d7415247-d7a7-4c47-9024-a68ba1622531
+#DIO - Ruby Introdução a orientação a objetos 
+
 class Sensor
     def instalar
         puts "Estou instalando o sensor"
