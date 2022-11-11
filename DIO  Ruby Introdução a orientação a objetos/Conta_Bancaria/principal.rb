@@ -6,7 +6,7 @@
 require "./classes/conta_bancaria"
 require "./classes/conta_com_taxa"
 
-conta_jean = ContaComTaxa.new("Jean", 120)
+conta_jean = ContaComTaxa.new("Jean", 100)
 conta_porto = ContaBancaria.new("Porto", 200)
 
 p "Saldo Jean: #{conta_jean.saldo}"   #50
@@ -21,7 +21,7 @@ p "Conta Porto:  #{conta_porto.saldo}"  #250
 #caso de teste de conta sem saldo
 conta_jean.transferir(conta_porto, 60) #falhar
 
-p "Conta Jean: #{conta_jean.saldo}"   #50
+p "Conta Jean: #{conta_jean.saldo}"   #48 (2 taxa)
 p "Conta Porto:  #{conta_porto.saldo}"  #250
 
 
