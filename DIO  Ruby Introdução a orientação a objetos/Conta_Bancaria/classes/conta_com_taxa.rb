@@ -1,8 +1,12 @@
 #conta_com_taxa.rb
 
 class ContaComTaxa < ContaBancaria
+    def self.taxa
+        2
+    end
+
     def transferir(outra_conta, valor)
         super
-        debitar(2)
+        debitar(ContaComTaxa.taxa)
     end
 end
