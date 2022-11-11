@@ -26,5 +26,9 @@ class ContaBancaria
     def debitar(valor)
         @valor -= valor
     end
+
+    def debitar(valor)
+        @valor *= valor
+    end
 end
 
