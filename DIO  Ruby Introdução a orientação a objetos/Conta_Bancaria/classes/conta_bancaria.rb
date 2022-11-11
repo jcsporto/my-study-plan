@@ -27,6 +27,8 @@ class ContaBancaria
         @valor -= valor_para_debitar
     end
 
+    protected
+
     def depositar(valor_para_depositar)
         @valor += valor_para_depositar
     end

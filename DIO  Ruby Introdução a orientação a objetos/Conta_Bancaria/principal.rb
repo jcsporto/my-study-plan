@@ -1,6 +1,7 @@
 #https://web.dio.me/course/ruby-introducao-a-orientacao-a-objetos/learning/9ea794c1-eac3-4fdb-86d6-cc9acac3cae0
 #DIO - Ruby: Intodução a orientação a objetos - Exercidio prático: Conta Bancaria
 
+
 #principal
 require "./classes/conta_bancaria.rb"
 
@@ -16,4 +17,11 @@ p "Conta Porto"
 p conta_porto.saldo  #250
 
 #caso de teste de conta sem saldo
-conta_jean
+conta_jean.transferir(conta_porto, 60) #falhar
+
+p "Conta Jean"
+p conta_jean.saldo   #50
+
+p "Conta Porto"
+p conta_porto.saldo  #250
+
