@@ -28,6 +28,3 @@ end
 # o codigo abaixo não foi executado pois a linha acima gerou um erro. 
 p "Conta Jean: #{conta_jean.saldo}"   #48 (2 taxa)
 p "Conta Porto:  #{conta_porto.saldo}"  #250
-
-
-
