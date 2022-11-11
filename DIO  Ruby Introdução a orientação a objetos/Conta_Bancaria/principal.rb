@@ -19,8 +19,13 @@ p "Conta Jean: #{conta_jean.saldo}"   #50
 p "Conta Porto:  #{conta_porto.saldo}"  #250
 
 #caso de teste de conta sem saldo
-conta_jean.transferir(conta_porto, 60) #falhar
+begin 
+    conta_jean.transferir(conta_porto, 60) #falhar
+rescue StandardError => meu_erro
+    p "Não foi possivel transferir: #{meu_erro.message}"
+end
 
+# o codigo abaixo não foi executado pois a linha acima gerou um erro. 
 p "Conta Jean: #{conta_jean.saldo}"   #48 (2 taxa)
 p "Conta Porto:  #{conta_porto.saldo}"  #250
 
