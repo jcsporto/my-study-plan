@@ -23,12 +23,12 @@ class ContaBancaria
     end 
 
     private 
-    def debitar(valor)
-        @valor -= valor
+    def debitar(valor_para_debitar)
+        @valor -= valor_para_debitar
     end
 
-    def depositar(valor)
-        @valor += valor
+    def depositar(valor_para_depositar)
+        @valor += valor_para_depositar
     end
 end
 
