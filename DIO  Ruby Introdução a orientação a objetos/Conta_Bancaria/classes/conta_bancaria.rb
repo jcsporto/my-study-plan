@@ -14,7 +14,7 @@ class ContaBancaria
              debitar(valor)
              outra_conta.depositar(valor)
         else
-            raise "Não consegui transferir! Saldo insuficiente"
+            raise "Saldo insuficiente"
         end
     end
 
