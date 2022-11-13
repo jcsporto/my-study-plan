@@ -4,8 +4,11 @@ require 'spec_helper'
 require 'hero'
 
 describe Hero do
-    it 'has a sword' do
-        hero = Hero.new
-        expect(hero.weapon).to eq('sword')
+    context 'quando esta com a armadura'do 
+        it 'tem 500 pontos de hp' do
+            hero = Hero.new
+            expect(hero.hp).to eq(5000)
+        end
     end
 end
+
