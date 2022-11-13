@@ -1,7 +1,6 @@
 #https://web.dio.me/course/aprendendo-o-que-e-ruby/learning/43ac7ef4-245e-4cb3-b6b5-86275a26c44e
 ##DIO - Aprendendo o que Ruby - Atribuição condicional de variável
 
-
 # #retorna nulo ou false
 # var = nil
 # var = "Algum valor" if var.nil?
@@ -17,7 +16,6 @@
 # #sintaxe especial para fazer o que foi supracitado
 # var ||=  "valor"
 
-
 var = 10
 p var
 
@@ -27,7 +25,6 @@ p var
 var = nil
 var ||= 20
 p var
-
 
 #pode-se usar para atribuir nova variavel
 nova_var||= 100

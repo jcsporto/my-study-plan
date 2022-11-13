@@ -1,5 +1,4 @@
 # Exercio do Curso O que é Ruby
-# 
 #Identificar se a palavra é um palíndromo
 
 def palindromo?(palavra)

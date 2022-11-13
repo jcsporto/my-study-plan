@@ -9,7 +9,6 @@ end
 
 puts soma(10, 5)
 
-
 #colocando valor no segundo parametro - ficar como opcional
 def soma_opcional(valor1, valor2=0)
     puts "Soma com 2 parametro opcional #{valor1} e #{valor2}"
@@ -25,5 +24,4 @@ def soma_com_parametros_nomeados(valor1:, valor2: 0)
 end
 
 puts "argumentso nomeados"
-
 puts soma_com_parametros_nomeados(valor2: 10, valor1: 5 )
