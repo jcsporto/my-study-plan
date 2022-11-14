@@ -5,7 +5,7 @@ RSpec.describe User, type: :model do
     nikname = FFaker::Name.first_:name
     kind = %i[knight wizard].sample
     level = FFaker::Random.rand(100..9999)
-    user = User.new(nikname: nikname, kind, level: level)
+    user = User.new(nikname: nikname, kind: kind, level: level)
 
     expect (user).to_not be_valid
   end
@@ -15,7 +15,7 @@ RSpec.describe User, type: :model do
     kind = %i[knight wizard].sample
     level = FFaker::Random.rand(1..99)
 
-    user = User.create(nikname: nikname, kind, level: level)
+    user = User.create(nikname: nikname, kind: kind, level: level)
     expect(user.title).to eq("#{kind} #{nikname} ##{level}")
   end
 end
