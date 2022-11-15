@@ -1,3 +1,1 @@
-Algoritmos 
-Rails
-Ruby
+Algoritmos | Rails | Ruby | Logica | Banco de Dados
