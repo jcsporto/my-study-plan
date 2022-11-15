@@ -1,3 +1,3 @@
-# Algoritmos 
-# Rails
-# Ruby
+Algoritmos 
+Rails
+Ruby
