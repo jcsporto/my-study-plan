@@ -28,3 +28,6 @@ CREATE TABLE tb_produtora(
     nome_produtora varchar(25),
     PRIMARY KEY (id_produtora)
 );
+
+--consultar a tabela de produtora
+SELECT * FROM tb_produtora;
