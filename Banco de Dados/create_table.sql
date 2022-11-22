@@ -31,3 +31,9 @@ CREATE TABLE tb_produtora(
 
 --consultar a tabela de produtora
 SELECT * FROM tb_produtora;
+
+
+--alterando a tabela tb_filme
+ALTER TABLE tb_filme
+ADD CONSTRAINT fk_id_produtora FOREIGN KEY (id_produtora) REFERENCES tb_produtora(id_produtora);
+
