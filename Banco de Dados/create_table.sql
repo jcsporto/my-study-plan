@@ -23,3 +23,8 @@ CREATE TABLE tb_filme(
 --consultar a tabela de filme
 SELECT * FROM tb_filme;
 
+CREATE TABLE tb_produtora(
+    id_produtora int NOT NULL,
+    nome_produtora varchar(25),
+    PRIMARY KEY (id_produtora)
+);
