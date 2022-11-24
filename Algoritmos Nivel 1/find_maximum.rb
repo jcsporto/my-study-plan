@@ -1,6 +1,5 @@
 # https://www.geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/
 
-
 def find_maximum(a, b, c)
     puts a
     puts b
