@@ -3,8 +3,18 @@
 def maximize_array(arr, k)
 
     lem = arr.length
-    p lem
+    count = 0
     
+    (1..len).each do |j|
+        (0..j).each do |i|
+            if arr[i] = - arr[i]
+            count += 1
+            if count == k
+                break
+            end
+        end
+    end
+
  
 end
     
