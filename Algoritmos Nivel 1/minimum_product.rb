@@ -24,9 +24,29 @@ def minimum_product(a)
         end       
     end
 
-    p count_e
+    # count number of odd
+    count_o = a.length - count_e - count_z
+   
 
+    # count positives
+    count_p = 0
+    (0..a.length-1).each do |i|
+        if a[i] > 0
+            count_p = count_p + 1
+        end
+    end
+    
+    # count negatives
+    count_n =  0
+    (0..a.length-1).each do |i|
+        if a[i] < 0
+            count_n = count_n + 1
+            p count_n
+            p "We have #{count_n} negative numbers"
+        end
+    end
 end
 
-a = [1, 1, 19, 4, 6, 0]
+
+a = [1, 1, -19, 4, 6, 0]
 minimum_product(a)
