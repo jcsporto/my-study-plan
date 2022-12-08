@@ -4,6 +4,19 @@
 # Dado o array a, temos que encontrar o produto mínimo possível com o subconjunto de elementos presentes no array.
 # O produto mínimo também pode ser um único elemento
 
+# Uma solução simples é gerar todos os subconjuntos, 
+#encontrar o produto de cada subconjunto e retornar o produto mínimo.
+
+# 1. Se houver um número par de números negativos e nenhum zero,
+# o resultado será o produto de todos, exceto o número negativo de maior valor.
+
+# 2. Se houver um número ímpar de números negativos e nenhum zero, 
+# o resultado é simplesmente o produto de todos
+
+# 3. Se houver zeros e positivo, nenhum negativo, o resultado é 0.
+# O caso excepcional é quando não há número negativo e todos os outros elementos são positivos, 
+# então nosso resultado deve ser o primeiro número positivo mínimo.
+
 def minimum_product(a)
 
     # count number of zeros
