@@ -77,7 +77,22 @@ def minimum_product(a)
         p prod
     end
 
+    # case 1
+    if count_z == 0
+        if(count_n).remainder(2) == 0
+            (0..a.length-1).each do |i|
+                if a[i] == a.min
+                    a.delete_at(1)
+                end
+            end
+        end
+        prod = 1
+        (0..a.length-1).each do |i|
+            prod = prod*a[i]
+        end
+    end
     
+
 end
 
 
