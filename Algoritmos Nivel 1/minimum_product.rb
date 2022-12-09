@@ -58,7 +58,18 @@ def minimum_product(a)
             p "We have #{count_n} negative numbers"
         end
     end
+
+    # Caso 3
+    if count_p == a.length
+        p "Sum is #{a.max}"
+        exit
+    end
+
+    
 end
+
+
+
 
 
 a = [1, 1, -19, 4, 6, 0]
