@@ -92,12 +92,15 @@ def minimum_product(a)
         end
     end
     
-
+    #case 4
+    if count_p > 1
+        if count_n == 0
+            if count_o != 0
+                p "The product is 0"
+            end
+        end
+    end
 end
-
-
-
-
 
 a = [1, 1, -19, 4, 6, 0]
 minimum_product(a)
