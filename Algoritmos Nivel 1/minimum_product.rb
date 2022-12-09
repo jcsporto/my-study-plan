@@ -65,6 +65,18 @@ def minimum_product(a)
         exit
     end
 
+    # case 2
+    if (count_n).remainder(2) != 0
+        if count_z == 0
+            prod = 1
+            (0..a.length-1).each do |i|
+                prod =  prod*a[i]
+            end
+        end
+        print "The product is "
+        p prod
+    end
+
     
 end
 
