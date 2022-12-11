@@ -3,6 +3,6 @@ require 'linear_search'
 
 describe Array do
     it 'the value is false or nil'
-    a = arr 
+    a = x
     expect(a).to be_truthy
 end
