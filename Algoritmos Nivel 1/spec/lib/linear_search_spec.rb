@@ -1,4 +1,4 @@
-require 'spec_helper'
+require 'spec_helper.rb'
 require 'linear_search'
 
 describe Array do
