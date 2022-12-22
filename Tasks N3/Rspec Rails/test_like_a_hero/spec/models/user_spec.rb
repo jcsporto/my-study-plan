@@ -8,4 +8,5 @@ RSpec.describe User, type: :model do
   it "returns the correct hero title" do
     user = User.create(nickname: 'Chronos', kind: :wizard, level: 1)
     expect(user.title).to eq('wirzad Chronos #1')
+  end
 end
