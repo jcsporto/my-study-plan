@@ -5,5 +5,7 @@ RSpec.describe User, type: :model do
     expect(User.create(nickname: 'Chronos', kind: :wizard, level: 100)).to_not be_valid 
   end  
 
-  it "returns the correct hero title"
+  it "returns the correct hero title" do
+    user = User.create(nickname: 'Chronos', kind: :wizard, level: 1)
+    expect(user.title).to eq('wirzad Chronos #1')
 end
