@@ -1,33 +1,42 @@
+class Minimum_product
+  def run(a, n)
 
-
-def countSort(arr, min=0, max=10)
-
-    n = max - min+1
-    count = Array.new(n,0)    
-    len = arr.length
-    output = Array.new(len)
-
-    for i in 0...len
-        count[arr[i] - min] +=1
+    max_neg = -4611686018427387903
+    min_pos = 4611686018427387903
+  
+    conut_neg = 0
+    count_zero = 0
+  
+    for i in 0..n - 1 do
+      if a[i].eq? 0
+        count_zero =  count_zero + 1
+        next
+      end
+  
+      if a[i] < 0
+        count_neg = count_neg + 1
+        max_neg = a.max
+      end
+  
+      if a[i] > 0
+        min_pos = a.min
+      end
+  
+      prod = prod * a[i]
     end
-
-    for i in 1...n
-        count[i] += count[i -1]
-    end
-
-    for i in 0...len
-        output[count[arr[i] - min] -1 ] =arr[i]
-        count[arr[i] -min]-=1
-    end
-
-    for i in 0...len
-        arr[i]=output[i]
+  
+    if count_zero == n || (count_neg == 0 && count_zero > 0)
+      return 0
     end
     
-    return arr
+    if count_neg == 0
+      return min_pos
+    end
+  
+    if !(count_neg & 1) && count_neg !=0
+      prod = prod /max_neg
+    end
+  
+    prod
+  end 
 end
-
-arr = [9, 8, 7, 6]
-
-arr_s = countSort(arr)
-puts "Retorno #{arr_s}"
