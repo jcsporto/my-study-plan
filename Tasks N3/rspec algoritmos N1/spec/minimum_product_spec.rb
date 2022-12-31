@@ -1,7 +1,7 @@
-require 'minimum_product'
 require 'spec_helper'
+require '../lib/minimum_product'
 
-RSpec.describe MinimumProduct do
+describe MinimumProduct do
 
   it "-24" do
     a = [-1, -1, -2, 4, 3]
@@ -13,7 +13,7 @@ RSpec.describe MinimumProduct do
   end
 
   it "-1" do
-    a = [ -1, 0]
+    a = [-1, 0]
     n = a.length
 
     result = MinimumProduct.new.run(a, n)

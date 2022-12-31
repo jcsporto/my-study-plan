@@ -1,3 +1,4 @@
+
 class MinimumProduct
     def run(a, n)
 
@@ -6,9 +7,10 @@ class MinimumProduct
 
         count_neg = 0
         count_zero = 0
+        prod = 1
 
         for i in 0..n - 1 do
-            if a[i].eq? 0
+            if a[i].eql? 0
                 count_zero =  count_zero + 1
                 next
             end
@@ -36,8 +38,6 @@ class MinimumProduct
         if !(count_neg & 1) && count_neg !=0
             prod = prod /max_neg
         end
+        prod
     end
-
-    prod
-  end
 end
