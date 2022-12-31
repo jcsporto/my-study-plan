@@ -4,7 +4,7 @@ class MinimumProduct
         max_neg = -4611686018427387903
         min_pos = 4611686018427387903
 
-        conut_neg = 0
+        count_neg = 0
         count_zero = 0
 
         for i in 0..n - 1 do
@@ -35,6 +35,7 @@ class MinimumProduct
 
         if !(count_neg & 1) && count_neg !=0
             prod = prod /max_neg
+        end
     end
 
     prod
