@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Tasks N3.iml" filepath="$PROJECT_DIR$/.idea/Tasks N3.iml" />
       <module fileurl="file://$PROJECT_DIR$/algoritmos_superdev/algoritmos_superdev.iml" filepath="$PROJECT_DIR$/algoritmos_superdev/algoritmos_superdev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/test_like_a_hero.iml" filepath="$PROJECT_DIR$/.idea/modules/test_like_a_hero.iml" />
     </modules>
   </component>
 </project>
