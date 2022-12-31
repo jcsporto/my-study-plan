@@ -6,10 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="616d7ffc-fd33-43f4-8ae9-85920f5b1163" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasks N3/Algoritmos N1 - rspec/.rspec" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks N3/rspec algoritmos N1/.rspec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasks N3/Algoritmos N1 - rspec/lib/minimum_product.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks N3/rspec algoritmos N1/lib/minimum_product.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasks N3/Algoritmos N1 - rspec/spec/minimum_product_spec.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tasks N3/Algoritmos N1 - rspec/spec_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks N3/rspec algoritmos N1/spec/spec_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks N3/rspec algoritmos N1/spec/minimum_sum_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks N3/rspec algoritmos N1/spec/minimum_sum_spec.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1671531167544</updated>
       <workItem from="1671531169779" duration="57000" />
-      <workItem from="1672491585249" duration="14417000" />
+      <workItem from="1672491585249" duration="16422000" />
     </task>
     <servers />
   </component>
@@ -80,6 +77,7 @@
     <SUITE FILE_PATH="coverage/my_study_plan@binary_search.rcov" NAME="binary_search Coverage Results" MODIFIED="1672493751254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my-study-plan" />
     <SUITE FILE_PATH="coverage/my_study_plan@minimum_product_spec.rcov" NAME="minimum_product_spec Coverage Results" MODIFIED="1672507980061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks N3/rspec algoritmos N1" MODULE_NAME="my-study-plan" />
     <SUITE FILE_PATH="coverage/my_study_plan@minimum_product.rcov" NAME="minimum_product Coverage Results" MODIFIED="1672507083787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my-study-plan" />
+    <SUITE FILE_PATH="coverage/my_study_plan@minimum_sum_spec.rcov" NAME="minimum_sum_spec Coverage Results" MODIFIED="1672519751172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks N3/rspec algoritmos N1" MODULE_NAME="my-study-plan" />
     <SUITE FILE_PATH="coverage/my_study_plan@hero_spec.rcov" NAME="hero_spec Coverage Results" MODIFIED="1672506657826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks N3/Rspec Ruby" MODULE_NAME="my-study-plan" />
   </component>
 </project>

@@ -1,5 +1,7 @@
+require 'spec_helper'
+require '../lib/minimum_sum'
 
-Rspec.describe "MinimumSum" do
+describe "MinimumSum" do
   it "-31" do
     a = [1, 2, -3]
     b = [-2, 3, -5]
