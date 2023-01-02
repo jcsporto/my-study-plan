@@ -1,40 +1,31 @@
 # #https://www.geeksforgeeks.org/minimum-sum-choosing-minimum-pairs-array/
+class MinimumSum
+  def run(a, b, n, k)
 
-# def minimum_sum(a)
-#     #p "a = #{a}"
+    diff = 0
+    res = 0
 
-#     while a.length != 1
-#         p "a tem um tamanho #{a.length}"
-#         if a[0] > a[1]
-#             a.delete_at(0)
-#             b.append(a[1])
-#             p "b é: #{b}"
-#             p "b é: #{a}"
-#         elsif a[0] < a[1]
-#             a.delete_at(1)
-#             b.append(a[0])
-#             p "b é: #{b}"
-#             p "b é: #{a}"
-#         end
-#     end
-    
-#     p "Result is #{a[0]*b.length}"
-# end
-#-------------------------------------
+    for i in 0..n - 1 do
+      pro = a[i] * [b]
+      res = res + pro
 
-def minimum_sum(a)
-    
-    n = a.length
-    b[0] = a[0]
-    for (int i =1; 1 < n; i++){
-        b[i] = a[1] + min(0, b[i-1])
-        smallest = min(smallest, b[i])
-    }
+      if pro < 0 and b[i] < 0
+        temp = b[i] * (a[i] + 2 * k)
+      elsif pro < 0 and a[i]< 0
+        temp = b[i] * (a[i] - 2 * k)
+      elsif pro > 0 and a[i] < 0
+        temp = b[i] * (a[i] + 2 * k)
+      elsif pro > 0 and a[i] > 0
+        temp = b[i] * (a[i] - 2 * k)
+      end
+      d = (pro - temp).abs
 
-    p smallest
+      if d > diff
+        diff = d
+      end
+    end
+    return res - diff
+  end
 end
-
-a = [7, 2, 3, 4, 5, 6]
-minimum_sum(a)
 
 
