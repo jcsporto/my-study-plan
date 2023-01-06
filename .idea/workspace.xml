@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="616d7ffc-fd33-43f4-8ae9-85920f5b1163" name="Changes" comment="" />
+    <list default="true" id="616d7ffc-fd33-43f4-8ae9-85920f5b1163" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks N3/rspec algoritmos N1/spec/minimum_sum_spec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks N3/rspec algoritmos N1/spec/minimum_sum_spec.rb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,12 +29,24 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/porto/workstation/my-study-plan/Tasks N3",
+    "last_opened_file_path": "/home/porto/workstation/my-study-plan/Tasks N3/Algoritmos N1 - rspec/spec/lib",
+    "nodejs_package_manager_path": "yarn",
     "ruby.rails.projectView.checked": "true",
+    "ruby.structure.view.model.defaults.configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tasks N3/Algoritmos N1 - rspec/spec/lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tasks N3/Algoritmos N1 - rspec" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="616d7ffc-fd33-43f4-8ae9-85920f5b1163" name="Changes" comment="" />
@@ -37,10 +55,29 @@
       <option name="presentableId" value="Default" />
       <updated>1671531167544</updated>
       <workItem from="1671531169779" duration="57000" />
+      <workItem from="1672491585249" duration="16422000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/my_study_plan@binary_search.rcov" NAME="binary_search Coverage Results" MODIFIED="1672493751254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my-study-plan" />
+    <SUITE FILE_PATH="coverage/my_study_plan@minimum_product_spec.rcov" NAME="minimum_product_spec Coverage Results" MODIFIED="1672507980061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks N3/rspec algoritmos N1" MODULE_NAME="my-study-plan" />
+    <SUITE FILE_PATH="coverage/my_study_plan@minimum_product.rcov" NAME="minimum_product Coverage Results" MODIFIED="1672507083787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="my-study-plan" />
+    <SUITE FILE_PATH="coverage/my_study_plan@minimum_sum_spec.rcov" NAME="minimum_sum_spec Coverage Results" MODIFIED="1672519751172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks N3/rspec algoritmos N1" MODULE_NAME="my-study-plan" />
+    <SUITE FILE_PATH="coverage/my_study_plan@hero_spec.rcov" NAME="hero_spec Coverage Results" MODIFIED="1672506657826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tasks N3/Rspec Ruby" MODULE_NAME="my-study-plan" />
   </component>
 </project>

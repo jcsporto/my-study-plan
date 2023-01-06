@@ -1,31 +1,34 @@
+# https://www.geeksforgeeks.org/binary-search/
 
-def binary_search(arr, l, r, x)
+def binary_search(x)
+  arr = [10, 20, 80, 30, 60, 50,110, 100, 130, 170]
+  arr = arr.sort
 
-    if r >= l
-        mid = l + (r -l)/2
-    
-        if arr[mid] == x
-            return mid
-        elsif arr[mid] > x
-            return binary_search(arr, l, mid-1, x)
-        else
-            return binary_search(arr, mid+1, r, x)
-        end
-    else
-        return -1
+  tamanho_0 = arr.length()
+
+  menor = arr[0]
+  maior = arr[-1]
+
+  if tamanho_0.odd?
+    tamanho_0 += 1
+  end
+
+  mediana = arr[tamanho_0/2]
+
+  while arr[0] != arr[-1] do
+    tamanho = arr.length()
+
+    if x == arr[tamanho/2]
+      return (tamanho/2+(tamanho_0-tamanho))
+    elsif x > arr[tamanho/2]
+      arr = arr.drop(tamanho/2)
+    elsif x < arr[tamanho/2]
+      arr = arr.pop(tamanho/2)
     end
+  end
 end
 
-arr = [10, 20, 30, 50, 60, 80, 110, 130, 140, 170]
-x = 110
-l = 0
-r = arr.length-1
+puts binary_search(110)
 
-resultado = binary_search(arr, l, r, x)
-if (resultado == -1) 
-    puts "Element is not present in array" 
-else  
-    puts "Elemen is present at index #{resultado}"
-end
 
 
