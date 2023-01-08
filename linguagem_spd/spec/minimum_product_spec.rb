@@ -1,7 +1,7 @@
 require 'spec_helper'
 require '../lib/minimum_product'
 
-describe MinimumProduct do
+RSpec.describe MinimumProduct do
 
   it "-24" do
     a = [-1, -1, -2, 4, 3]

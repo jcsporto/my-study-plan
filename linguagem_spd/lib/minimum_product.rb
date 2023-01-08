@@ -36,7 +36,7 @@ class MinimumProduct
         end
 
         if !(count_neg & 1) && count_neg !=0
-            prod = prod /max_neg
+            prod = prod/max_neg
         end
         prod
     end
