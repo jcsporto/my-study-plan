@@ -1,7 +1,7 @@
 require 'spec_helper'
 require 'minimum_sum'
 
-describe "MinimumSum" do
+RSpec.describe MinimumSum do
   it "-31" do
     a = [1, 2, -3]
     b = [-2, 3, -5]
