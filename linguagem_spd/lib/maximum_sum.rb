@@ -1,4 +1,4 @@
-class
+class MaximumSum
 def run(array)
   array.each_with_index do |item, index|
     array[index] = item.abs if item.negative?
