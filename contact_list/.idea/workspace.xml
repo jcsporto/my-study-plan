@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06eb7065-a074-47a6-bac5-3a71b432f5e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/contacts.coffee" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/contacts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/scaffolds.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/contacts_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/contacts_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/contact.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/contacts/_contact.json.jbuilder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/contacts/_form.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/contacts/edit.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/contacts/index.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/contacts/index.json.jbuilder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/contacts/new.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/contacts/show.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/contacts/show.json.jbuilder" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/migrate/20230127161619_create_contacts.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/contacts_controller_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/contacts.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/models/contact_test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/system/contacts_test.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +132,7 @@
       <workItem from="1674605400911" duration="608000" />
       <workItem from="1674636815950" duration="3050000" />
       <workItem from="1674640403032" duration="4958000" />
-      <workItem from="1674808868298" duration="5788000" />
+      <workItem from="1674808868298" duration="6094000" />
     </task>
     <servers />
   </component>
