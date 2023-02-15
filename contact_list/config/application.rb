@@ -16,6 +16,6 @@ module ContactList
     # -- all .rb files in that directory are automatically loaded after loading
     # the framework and any gems in your application.
 
-    config.I18 = :'pt-BR'
+    config.i18n.default_locale = :'pt-BR'
   end
 end
