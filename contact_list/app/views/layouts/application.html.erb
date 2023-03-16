@@ -1,0 +1,32 @@
+  <!DOCTYPE html>
+<html>
+  <head>
+    <title>ContactList</title>
+    <%= csrf_meta_tags %>
+
+    <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
+    <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
+  </head>
+
+  <body>
+    <%= render 'layouts/header' %>
+
+    <div class="container">
+
+      <% flash.each do |message_type, message| %>
+        <%= content_tag 'div', class: "alert alert_#{message_type} alert-dimissible", role: 'alert' do %>
+          <button type="button" class="close" data-dimiss="alert" aria-label="Close">
+            <span aria-haspopup="true">&times;</span>
+          </button>
+          <%= message %>
+        <% end %>
+      <% end %>
+
+
+      <%= yield %>
+
+      <%= render 'layouts/footer' %>
+    </div>
+
+  </body>
+</html>
