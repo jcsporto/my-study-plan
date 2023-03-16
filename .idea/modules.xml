@@ -3,8 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/algoritmos_superdev.iml" filepath="$PROJECT_DIR$/.idea/modules/algoritmos_superdev.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contact_list.iml" filepath="$PROJECT_DIR$/.idea/modules/contact_list.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/linguagem_spd.iml" filepath="$PROJECT_DIR$/.idea/modules/linguagem_spd.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/meu_projeto.iml" filepath="$PROJECT_DIR$/.idea/modules/meu_projeto.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mvc_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mvc_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/my-study-plan.iml" filepath="$PROJECT_DIR$/.idea/my-study-plan.iml" />

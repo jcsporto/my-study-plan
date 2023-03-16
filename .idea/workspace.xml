@@ -8,95 +8,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="616d7ffc-fd33-43f4-8ae9-85920f5b1163" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules/algoritmos_superdev.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/contact_list.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/linguagem_spd.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/meu_projeto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/mvc_test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules/test_like_a_hero.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/.ruby-version" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/assets/config/manifest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/assets/images/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/assets/javascripts/application.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/assets/javascripts/cable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/assets/javascripts/channels/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/assets/stylesheets/application.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/channels/application_cable/channel.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/channels/application_cable/connection.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/controllers/application_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/controllers/concerns/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/helpers/application_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/jobs/application_job.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/mailers/application_mailer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/models/application_record.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/models/concerns/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/views/layouts/application.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/views/layouts/mailer.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/app/views/layouts/mailer.text.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/bin/bundle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/bin/rails" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/bin/rake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/bin/spring" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/bin/update" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/bin/yarn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config.ru" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/application.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/boot.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/cable.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/credentials.yml.enc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/database.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/environment.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/environments/development.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/environments/production.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/environments/test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/initializers/application_controller_renderer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/initializers/assets.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/initializers/backtrace_silencers.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/initializers/content_security_policy.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/initializers/cookies_serializer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/initializers/filter_parameter_logging.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/initializers/inflections.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/initializers/mime_types.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/initializers/wrap_parameters.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/locales/en.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/puma.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/routes.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/spring.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/config/storage.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/db/seeds.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/lib/assets/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/lib/tasks/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/log/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/public/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/public/422.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/public/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/public/apple-touch-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/public/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/storage/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/test/application_system_test_case.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/test/controllers/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/test/fixtures/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/test/fixtures/files/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/test/helpers/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/test/integration/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/test/mailers/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/test/models/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/test/system/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/test/test_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/tmp/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact_list/vendor/.keep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ruby on Rails na Pratica/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/algoritmos_superdev.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/algoritmos_superdev.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/meu_projeto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/meu_projeto.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/mvc_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/mvc_test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/test_like_a_hero.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/test_like_a_hero.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/my-study-plan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my-study-plan.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,8 +31,36 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1678981846" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="linux_zero" />
+                    <option name="lastUsedInstant" value="1678981845" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/Rails/Ruby on Rails:  Introdução a arquitetura MVC/mvc_test/package.json" />
   </component>
   <component name="ProjectId" id="2JAqJxHt2Gf3dAXB1gZn3GIFpD5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -124,25 +70,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/porto/workstation/my-study-plan",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "yarn",
-    "ruby.rails.projectView.checked": "true",
-    "ruby.structure.view.model.defaults.configured": "true",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/porto/workstation/Tasks&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
+    &quot;ruby.structure.view.model.defaults.configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Tasks N3/Algoritmos N1 - rspec/spec/lib" />
@@ -156,7 +102,7 @@
       <module name="contact_list" />
       <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/../../contact_list" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
@@ -252,7 +198,7 @@
       <module name="contact_list" />
       <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/../../contact_list" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
@@ -347,7 +293,7 @@
     <configuration name="spec: contact_list" type="RakeRunConfigurationType" factoryName="Rake">
       <module name="contact_list" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/../../contact_list" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$/contact_list" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
@@ -439,7 +385,7 @@
     <configuration name="test: contact_list" type="RakeRunConfigurationType" factoryName="Rake">
       <module name="contact_list" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
-      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$MODULE_DIR$/../../contact_list" />
+      <RAKE_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$/contact_list" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
       <RAKE_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
@@ -553,6 +499,13 @@
       <workItem from="1671531169779" duration="57000" />
       <workItem from="1672491585249" duration="16422000" />
       <workItem from="1674554208405" duration="866000" />
+      <workItem from="1677679939224" duration="257000" />
+      <workItem from="1677753432796" duration="135000" />
+      <workItem from="1677757244868" duration="315000" />
+      <workItem from="1677757571240" duration="36000" />
+      <workItem from="1677833363931" duration="74000" />
+      <workItem from="1678788747680" duration="78000" />
+      <workItem from="1678981730369" duration="209000" />
     </task>
     <servers />
   </component>
