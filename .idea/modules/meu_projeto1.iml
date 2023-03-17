@@ -9,6 +9,9 @@
       </configuration>
     </facet>
   </component>
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../../Ruby/Ruby: Introdução a orientação a objetos/meu_projeto">
       <sourceFolder url="file://$MODULE_DIR$/../../Ruby/Ruby: Introdução a orientação a objetos/meu_projeto/features" isTestSource="true" />
