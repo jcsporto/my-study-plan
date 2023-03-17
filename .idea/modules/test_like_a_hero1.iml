@@ -9,6 +9,9 @@
       </configuration>
     </facet>
   </component>
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../../Tasks N3/Rspec Rails/test_like_a_hero">
       <sourceFolder url="file://$MODULE_DIR$/../../Tasks N3/Rspec Rails/test_like_a_hero/features" isTestSource="true" />
