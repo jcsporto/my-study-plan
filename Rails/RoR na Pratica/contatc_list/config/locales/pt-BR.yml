@@ -17,5 +17,5 @@ pt-BR:
         invalid:              'inválido'
         taken:                'já cadastrado'
         confirmation:         'não é igual. insira a mesma senha'
-        too_long:             'Muito grande. Máximo de %{count} caracteres'
-        too_short:            'Muito curta. Mínimo de %{count} caracteres'
+        too_long:             'muito grande. Máximo de %{count} caracteres'
+        too_short:            'muito curta. Mínimo de %{count} caracteres'
