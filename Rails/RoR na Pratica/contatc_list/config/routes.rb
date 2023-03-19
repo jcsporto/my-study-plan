@@ -9,6 +9,6 @@ Rails.application.routes.draw do
  delete 'sair', to: 'sessions#destroy'
 
   resources :contacts
-  resources :users, only: [:show, :new, :create]
+  resources :users, only: [ :new, :create, :show]
 
 end
