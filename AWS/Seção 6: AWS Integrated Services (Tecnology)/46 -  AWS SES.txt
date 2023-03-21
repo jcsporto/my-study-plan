@@ -1,0 +1,33 @@
+AWS SES
+Amazon Simple E-mail Service
+- Serviço da AWS que permite o envio e recebimento de e-mails em alta escala com custo efetivo.
+
+- Não é um servido de e-mails
+
+Principais casos de usuo do AWS SES
+e-mail Marketing
+Envio de e-mail para grand base de clientes para promoção de produtos, propaganda,
+
+
+e-mail Transacional
+Envio de e-mail automatizado como confirmação de pedidos, entrega, status de pedidos
+mudanças de politicas, resete de senha, entre outros
+
+
+Notificações
+Erro em sistema ou produtos, monitoração, mudança de status de processos,
+evento que requer o envio de e-mail
+
+Recebimento
+Receber e-mails em massa e tomada de decisão (automação)
+
+
+
+Cacteristicas
+- Pagamento por Utilização (Pay as You Go)
+- Alta Escalabilidade
+- Monitoramento
+- Personalização de conteúdo
+- Reputação de Remetentes
+- Integração com vários serviços da AWS
+
