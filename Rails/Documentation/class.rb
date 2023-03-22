@@ -13,5 +13,8 @@ end
 
 
 g = Anfitriao.new("Jean")
-g.diz_ola
-g.diz_adeus
+# g.diz_ola
+# g.diz_adeus
+
+
+g.respond_to?("diz_ola")
