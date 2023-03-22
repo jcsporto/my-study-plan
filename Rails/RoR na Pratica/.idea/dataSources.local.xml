@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="RM-222.4459.24">
+    <data-source name="Rails contatc_list: production" uuid="6ecc9144-65b0-48ce-8b6d-42358665b3dd">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>contatc_list</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails contatc_list: development" uuid="63ec5dda-aa3e-438b-9c6f-7070df84771f">
+      <database-info product="PostgreSQL" version="12.14 (Ubuntu 12.14-0ubuntu0.20.04.1)" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.5.0" dbms="POSTGRES" exact-version="12.14" exact-driver-version="42.5">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>porto</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="database" qname="@">
+            <node kind="schema" qname="@" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+    <data-source name="Rails contatc_list: test" uuid="88fbaae7-61f1-4158-a282-be1c48cff4fb">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>porto</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
