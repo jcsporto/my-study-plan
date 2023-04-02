@@ -7,7 +7,8 @@ Rails.application.routes.draw do
   # root "articles#index"
 
 
-  root to: redirect("/ideas")
+
+  root "pages#homepage"
   get 'pages/about'
 
 end
