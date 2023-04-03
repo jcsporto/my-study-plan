@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Metodotos e Gems.iml" filepath="$PROJECT_DIR$/.idea/modules/Metodotos e Gems.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/algoritmos_superdev.iml" filepath="$PROJECT_DIR$/.idea/modules/algoritmos_superdev.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/algoritmos_superdev1.iml" filepath="$PROJECT_DIR$/.idea/modules/algoritmos_superdev1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/blog.iml" filepath="$PROJECT_DIR$/.idea/modules/blog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bundler.iml" filepath="$PROJECT_DIR$/.idea/modules/bundler.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/contact_list.iml" filepath="$PROJECT_DIR$/.idea/modules/contact_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contatc_list.iml" filepath="$PROJECT_DIR$/.idea/modules/contatc_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/library.iml" filepath="$PROJECT_DIR$/.idea/modules/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/linguagem_spd.iml" filepath="$PROJECT_DIR$/.idea/modules/linguagem_spd.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/meu_projeto.iml" filepath="$PROJECT_DIR$/.idea/modules/meu_projeto.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/meu_projeto1.iml" filepath="$PROJECT_DIR$/.idea/modules/meu_projeto1.iml" />
@@ -13,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/my-study-plan.iml" filepath="$PROJECT_DIR$/.idea/my-study-plan.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/test_like_a_hero.iml" filepath="$PROJECT_DIR$/.idea/modules/test_like_a_hero.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/test_like_a_hero1.iml" filepath="$PROJECT_DIR$/.idea/modules/test_like_a_hero1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xpto3.iml" filepath="$PROJECT_DIR$/.idea/modules/xpto3.iml" />
     </modules>
   </component>
 </project>
