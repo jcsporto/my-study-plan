@@ -8,7 +8,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="616d7ffc-fd33-43f4-8ae9-85920f5b1163" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Metodotos e Gems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Metodotos e Gems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/blog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/bundler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/bundler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/contatc_list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/contatc_list.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/library.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/xpto3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/xpto3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/my-study-plan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my-study-plan.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1019,6 +1025,7 @@
       <workItem from="1680515041660" duration="139000" />
       <workItem from="1680515233668" duration="58000" />
       <workItem from="1680539797302" duration="209000" />
+      <workItem from="1680873011260" duration="454000" />
     </task>
     <servers />
   </component>
