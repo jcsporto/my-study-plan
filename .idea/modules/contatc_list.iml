@@ -9,6 +9,9 @@
       </configuration>
     </facet>
   </component>
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../../Rails/RoR na Pratica/contatc_list">
       <sourceFolder url="file://$MODULE_DIR$/../../Rails/RoR na Pratica/contatc_list/features" isTestSource="true" />
