@@ -8,8 +8,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="616d7ffc-fd33-43f4-8ae9-85920f5b1163" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Training/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Training/xpto4/app/javascript/controllers/application.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Training/xpto4/app/javascript/controllers/hello_controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Training/xpto4/app/javascript/controllers/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Metodotos e Gems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Metodotos e Gems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/blog.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/bundler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/bundler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/contatc_list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/contatc_list.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/library.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/xpto3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/xpto3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -1047,6 +1055,7 @@
       <workItem from="1680515233668" duration="58000" />
       <workItem from="1680539797302" duration="209000" />
       <workItem from="1680873011260" duration="885000" />
+      <workItem from="1681074000250" duration="970000" />
     </task>
     <servers />
   </component>
