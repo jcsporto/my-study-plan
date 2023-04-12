@@ -5,23 +5,23 @@
       <configuration>
         <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_SUPPORT_REMOVED" VALUE="false" />
         <RAILS_FACET_CONFIG_ID NAME="RAILS_TESTS_SOURCES_PATCHED" VALUE="true" />
-        <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_APPLICATION_ROOT" VALUE="$MODULE_DIR$/../../Projects/XPTO" />
+        <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_APPLICATION_ROOT" VALUE="$MODULE_DIR$/../../Training/xpto_alpha" />
       </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$/../../Projects/XPTO">
-      <sourceFolder url="file://$MODULE_DIR$/../../Projects/XPTO/features" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../Projects/XPTO/spec" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../Projects/XPTO/test" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Projects/XPTO/.bundle" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Projects/XPTO/public/packs" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Projects/XPTO/vendor/bundle" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Projects/XPTO/vendor/cache" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Projects/XPTO/log" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Projects/XPTO/tmp" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Projects/XPTO/public/system" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Projects/XPTO/components" />
+    <content url="file://$MODULE_DIR$/../../Training/xpto_alpha">
+      <sourceFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/features" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/.bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/public/packs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/vendor/bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/vendor/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/public/system" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/components" />
     </content>
     <orderEntry type="jdk" jdkName="ruby-2.7.2-p137" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -72,6 +72,10 @@
     <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.7.5, ruby-2.7.2-p137) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.5, ruby-2.7.2-p137) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="xpath (v3.2.0, ruby-2.7.2-p137) [gem]" level="application" />
+  </component>
+  <component name="RModuleSettingsStorage">
+    <LOAD_PATH number="0" />
+    <I18N_FOLDERS number="1" string0="$MODULE_DIR$/../../Training/xpto_alpha/config/locales" />
   </component>
   <component name="RailsGeneratorsCache">
     <option name="generators">
