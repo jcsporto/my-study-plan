@@ -8,13 +8,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="616d7ffc-fd33-43f4-8ae9-85920f5b1163" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules/blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/blog.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/contatc_list.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/contatc_list.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/meu_projeto1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/meu_projeto1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/test_like_a_hero1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/test_like_a_hero1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/xpto3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/xpto3.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/Metodotos e Gems1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/Metodotos e Gems1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/XPTO.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/XPTO.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/blog1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/blog1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/bundler1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/bundler1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/contatc_list1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/contatc_list1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/xpto31.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/xpto31.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/xpto_alpha.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/xpto_alpha.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/my-study-plan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my-study-plan.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +59,13 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/Rails/DIO/MVC/blog/package.json" />
+    <dismissed value="$PROJECT_DIR$/Rails/Documentation/library/package.json" />
+    <dismissed value="$PROJECT_DIR$/Rails/Ruby on Rails:  Introdução a arquitetura MVC/mvc_test/package.json" />
+    <dismissed value="$PROJECT_DIR$/Ruby/Ruby: Introdução a orientação a objetos/meu_projeto/package.json" />
+    <dismissed value="$PROJECT_DIR$/Tasks N3/Rspec Rails/test_like_a_hero/package.json" />
   </component>
   <component name="ProjectId" id="2JAqJxHt2Gf3dAXB1gZn3GIFpD5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -1500,6 +1508,8 @@
       <workItem from="1681074000250" duration="3451000" />
       <workItem from="1681131448985" duration="1232000" />
       <workItem from="1681253821003" duration="2854000" />
+      <workItem from="1681298935419" duration="727000" />
+      <workItem from="1681425282902" duration="678000" />
     </task>
     <servers />
   </component>
