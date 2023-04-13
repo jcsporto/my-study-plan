@@ -9,6 +9,9 @@
       </configuration>
     </facet>
   </component>
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../../Training/xpto_alpha">
       <sourceFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/features" isTestSource="true" />
@@ -151,6 +154,11 @@
         <option value="test_unit:plugin" />
         <option value="test_unit:scaffold" />
       </list>
+    </option>
+  </component>
+  <component name="RakeTasksCache">
+    <option name="myRootTask">
+      <RakeTaskImpl id="rake" />
     </option>
   </component>
   <component name="RubyModuleProperties">
