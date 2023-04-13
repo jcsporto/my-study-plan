@@ -5,23 +5,23 @@
       <configuration>
         <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_SUPPORT_REMOVED" VALUE="false" />
         <RAILS_FACET_CONFIG_ID NAME="RAILS_TESTS_SOURCES_PATCHED" VALUE="true" />
-        <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_APPLICATION_ROOT" VALUE="$MODULE_DIR$/../../Projects/XPTO" />
+        <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_APPLICATION_ROOT" VALUE="$MODULE_DIR$/../../Projects/blog" />
       </configuration>
     </facet>
   </component>
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$/../../Projects/XPTO">
-      <sourceFolder url="file://$MODULE_DIR$/../../Projects/XPTO/features" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../Projects/XPTO/spec" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../Projects/XPTO/test" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Projects/XPTO/.bundle" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Projects/XPTO/public/packs" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Projects/XPTO/vendor/bundle" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Projects/XPTO/vendor/cache" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Projects/XPTO/log" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Projects/XPTO/tmp" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Projects/XPTO/public/system" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Projects/XPTO/components" />
+    <content url="file://$MODULE_DIR$/../../Projects/blog">
+      <sourceFolder url="file://$MODULE_DIR$/../../Projects/blog/features" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Projects/blog/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Projects/blog/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Projects/blog/.bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Projects/blog/public/packs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Projects/blog/vendor/bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Projects/blog/vendor/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Projects/blog/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Projects/blog/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Projects/blog/public/system" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Projects/blog/components" />
     </content>
     <orderEntry type="jdk" jdkName="ruby-2.7.2-p137" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
