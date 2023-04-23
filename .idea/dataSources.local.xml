@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="RM-222.4554.10">
+    <data-source name="Rails library: production" uuid="3cd84228-e287-4133-9993-2b40e74c3295">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <secret-storage>forget</secret-storage>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails library: test" uuid="352666ca-ce2d-4a2e-b4e5-1d40af62941a">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <secret-storage>forget</secret-storage>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails contatc_list: production" uuid="19fdbd78-cc32-4d6b-a549-b7a7f960ee4b">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <secret-storage>forget</secret-storage>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails xpto3: production" uuid="003cafde-5477-40ec-9fce-d969e405a065">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <secret-storage>forget</secret-storage>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails blog: test" uuid="64876d11-7a4d-4848-bfbc-5d519e5ad212">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <secret-storage>forget</secret-storage>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails contatc_list: test" uuid="187528e5-4e99-48c9-8843-04c2de56d237">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <secret-storage>forget</secret-storage>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails library: development" uuid="24d654e1-7f79-4d78-9a6b-b9b19f6209d6">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <secret-storage>forget</secret-storage>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails blog: development" uuid="e5d78bab-b0ca-41d6-a7e8-6fb3edc192b8">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <secret-storage>forget</secret-storage>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails contatc_list: development" uuid="e12b51cb-d533-41d2-9a5e-8068f6c3d738">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <secret-storage>forget</secret-storage>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails blog: production" uuid="5c0b0904-9ccc-4243-856c-5d20699f4c0e">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <secret-storage>forget</secret-storage>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails xpto3: development" uuid="2a7abd2e-4d0e-4a97-b016-16cde59e42f9">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <secret-storage>forget</secret-storage>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails xpto3: test" uuid="9fc75a73-904a-464f-b0e5-c0c33ccf8d48">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <secret-storage>forget</secret-storage>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails XPTO: production" uuid="653aa83a-4f23-4c72-a4c8-107fb4844f5b">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>XPTO</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails contatc_list1: development" uuid="130d417a-6b8a-4a35-b56d-32e95bd4a427">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>porto</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails contatc_list1: production" uuid="47afc22b-797f-44e5-863e-857d161607d2">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>contatc_list</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails xpto_alpha: development" uuid="8614389d-4830-4eaf-b5d0-3fecbe94a893">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails XPTO: development" uuid="8e13418a-29a0-4f30-9065-e11d5c95ae25">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails XPTO: test" uuid="ff1de259-b5ff-4fb0-a300-8c6b80bcd0b4">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails xpto_alpha: test" uuid="b3add10a-7273-4781-acfc-2c1140fba00a">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails xpto31: development" uuid="c2584a86-5f85-46bf-8b0a-4e122d46aea4">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails xpto31: production" uuid="9f18c22a-ce7e-4c97-8534-41a622df75cd">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>xpto3</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails blog1: test" uuid="ac6049d2-120d-4689-ac3d-b7a93fa9ba45">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails contatc_list1: test" uuid="a4a1ab24-566a-436d-842e-0066fe7c6ecd">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>porto</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails blog1: development" uuid="d7a2ac7c-1a3f-4149-bc5e-a71d761f08c3">
+      <database-info product="PostgreSQL" version="12.14 (Ubuntu 12.14-0ubuntu0.20.04.1)" jdbc-version="4.2" driver-name="PostgreSQL JDBC Driver" driver-version="42.5.0" dbms="POSTGRES" exact-version="12.14" exact-driver-version="42.5">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="exact" />
+      <user-name>porto</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="database" qname="@">
+            <node kind="schema" qname="@" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+    <data-source name="Rails xpto_alpha: production" uuid="168e8617-3ebb-4fae-8f42-447e8fb67c17">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>xpto_alpha</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails blog1: production" uuid="5d14d9a4-cbd8-4d41-8839-2d6bdd60dd61">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <user-name>blog</user-name>
+      <schema-mapping />
+    </data-source>
+    <data-source name="Rails xpto31: test" uuid="4e95529e-ccac-4c66-9153-aa2dec90af74">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="POSTGRES" exact-version="0" />
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>

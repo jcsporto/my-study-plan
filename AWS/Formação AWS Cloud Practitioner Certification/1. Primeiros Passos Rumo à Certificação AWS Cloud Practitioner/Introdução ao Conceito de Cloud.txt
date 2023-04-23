@@ -1,0 +1,66 @@
+
+1. O que é Cloud Computing?
+- Modelo Cliente Servidor
+- Ambientes on-premises
+- Virtualização
+
+R: A computação em nuvem que é a entrega de recursos de TI sob demanda por meio
+da internet com definição de preço de pagamento conforme o uso
+
+https://aws.amazon.com/pt/what-is-cloud-computing/
+
+
+
+
+● https://www.ipm.com.br/blog/administracao-
+geral/historia-da-computacao-em-nuvem-como-surgiu-a-
+cloud-computing/
+● https://aws.amazon.com/pt/what-is-cloud-computing/
+● https://d0.awsstatic.com/whitepapers/aws-overview.pdf
+
+
+
+
+2. Benefícios do Cloud Computing
+- Trocar despesas inciais por despesas variáveis
+- Pare de tentar adivinhar a capacidade
+- Benevicie-se de enormes economias de escala
+- Aumente a velocidade e agilidade
+- Ter alcance global em minutos
+
+
+https://docs.aws.amazon.com/pt_br/whitepapers/latest/
+aws-overview/six-advantages-of-cloud-computing.html
+
+
+
+
+3. Modelos de Serviço
+- Também chamado de modelos de computação em nuvem
+
+IaaS
+Infraestrutura como serviço
+
+
+PaaS
+Plataforma como serviço
+- Plataforma para implantar deploy
+
+
+SaaS
+Software como serviço
+- Produto completo, executado e gerenciado pelo provedor ex:Gmail
+
+
+https://aws.amazon.com/pt/types-of-cloud-computing/
+
+
+
+
+
+
+4. Modelo de implantação
+- Onde o serviço esta implantado
+
+On-premese, Híbrido e Cloud
+

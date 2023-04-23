@@ -1,0 +1,8 @@
+
+- Economia de recursos e custo
+- Escalabilidade: mais poder computacional
+- Elasticidade: escalar conforme a necessidade
+- Disponibilidade: 
+
+
+- Capacitade computacional segura e redimensionável
