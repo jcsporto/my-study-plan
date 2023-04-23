@@ -6,3 +6,12 @@ Amazon EC2 Auto Scaling
 indisponíveis e implantação multi-AZ
 
 - Melhor gerenciamento de custos
+
+
+
+Como é a configuração 
+Auto Scaling Group
+- Escolher tamanho mínimo: qtde de instancias que estejam rodando
+- Capacidade desejada: add instancias
+- qtde maxima de instancias rodando 
+
