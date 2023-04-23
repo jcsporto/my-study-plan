@@ -8,7 +8,8 @@ serviços que voce pode utilizar na AWS
 - Composto por Regioes e Zonas de disponibilidade
 - Vantagens: Alta disponibilidade, Tolerancia a falhas
 
-
+https://aws.amazon.com/pt/about-aws/global-
+infrastructure/?p=ngi&loc=1
 
 2. Regioes e Zonas de disponibilidade
 
@@ -26,6 +27,15 @@ Zonas de disponibilidade: Tbm chamadas de AZs (Availability Zones)
 para evitar que um desastre afete mais de uma AZ
 - Recomendação: Execute pelo menos em duas AZs
 
+
+
+
+https://docs.aws.amazon.com/pt_br/AmazonRDS/latest/UserGu
+ide/Concepts.RegionsAndAvailabilityZones.html
+https://aws.amazon.com/pt/about-aws/global-
+infrastructure/regions_az/?p=ngi&loc=2
+https://aws.amazon.com/pt/about-aws/global-
+infrastructure/regional-product-services/?p=ngi&loc=4
 
 
 
@@ -48,6 +58,37 @@ de forma rápida
 . Amazon Route 53
 - Seviço de DNS
 - Ajuda os clientes a redirecionar corretamente as requisições
+
+
+https://aws.amazon.com/pt/products/networking/edge-
+networking/
+
+https://aws.amazon.com/pt/cloudfront/getting-
+started/?nc=sn&loc=4
+
+○ Como funciona o Cloud Front
+https://www.youtube.com/watch?v=A7PCmh6-YKs
+https://aws.amazon.com/pt/cloudfront/features/?whats-new-
+cloudfront.sort-by=item.additionalFi
+
+
+
+4. Provisionamento de recursos  na AWS
+
+Como é possível interagir com seviços aws?
+    - Console de gerenciamento
+    - AWS clientes
+    - SDKs
+
+
+Provisionando Infraestrutura
+    - Elastic Beanstalk 
+        - Automatiza processo de deploy
+
+    - CloudFormation
+        - Infraestrutura como Codigo
+        - IAAC
+        - Constroe a Infraestrutura baseado no Codigo - Script
 
 
 
