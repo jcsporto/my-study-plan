@@ -1,0 +1,15 @@
+Serviços de Mensageria 
+
+1. SQS  - Amanzon Simple Queue Service
+- Serviço de Fila: Lê, Processa e apaga da Fila
+
+- Sistema de enfileramento de mensagens
+- Um usuário envia uma mensagem para fila, o outro usuário Lê, Processa,
+e exclui da fila
+
+
+2. SMS - Amanzon Simple Notification Service 
+- Sistema pub/sub
+- Utiliza tópicos como estrutura
+- Usuário pubolica mensagem no tópico e assinantes escutam
+
