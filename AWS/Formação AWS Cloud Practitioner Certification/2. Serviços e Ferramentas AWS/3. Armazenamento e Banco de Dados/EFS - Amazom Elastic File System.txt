@@ -1,0 +1,10 @@
+O que é EFS?
+
+Elastic File System
+
+Fornece um sistema de Arquivos
+Servless e totalmente elástico
+Escala até Petabytes
+Aumente e diminuir conforme adição e remoção de Arquivos
+
+

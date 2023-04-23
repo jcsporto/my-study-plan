@@ -1,0 +1,7 @@
+Tipos de Armazenamento
+
+Armazenamento de Objetos (Object Storage)
+Armazenamento de Arquivos (File Storage)
+Armazenamento de Blocos (Block Storage)
+
+
