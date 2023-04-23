@@ -15,3 +15,8 @@ Auto Scaling Group
 - Capacidade desejada: add instancias
 - qtde maxima de instancias rodando 
 
+
+Abordagem 
+- Scaling Preditivo
+- Scaling Dinamico
+- É possivel combinar os dois
