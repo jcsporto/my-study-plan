@@ -1,0 +1,8 @@
+Amazon EC2 Auto Scaling
+
+- Provê escalabilidade horizontal para seus serviços
+
+- Melolra a tolerância a falhas com identificação de instância
+indisponíveis e implantação multi-AZ
+
+- Melhor gerenciamento de custos
