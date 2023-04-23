@@ -1,0 +1,34 @@
+Containers em AWS
+
+Containers:
+- Forma padrão de empacotar seu aplicativo em um único objeto
+- Executados como processos isolados
+- E: Docker
+
+
+Serviços AWS
+- ECR - Elastic Containers Registry
+- ECS - Elastic Containers Service
+- EKS - Elastic Kubernetes Service
+- AWS Fargate
+
+
+
+ECR - Elastic Containers Registry
+- Como se fosse um repositorio das imagens que vc vai hospedando
+- Como se fosse um servidor com todas as imagens de uma aplicação
+
+
+ECS - Elastic Containers Service
+- Serviço de execução de Containers da AWS
+
+EKS - Elastic Kubernetes Service
+- Provisiona um cluster EKS - Faz deploy e executa as aplicações
+
+
+AWS Fargate
+- Uma ferramenta Servless
+    - combina o que vc pode eks ou ecs faciliando a configuração do ambiente
+
+
+
