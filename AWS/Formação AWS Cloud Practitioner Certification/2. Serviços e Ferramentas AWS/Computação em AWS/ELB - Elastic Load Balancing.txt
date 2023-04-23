@@ -1,0 +1,6 @@
+ELB - Elastic Load Balancing 
+
+- Balanceamento de carga de aplicação, gateway e rede 
+- Escopo regional
+- Escala de forma automática, sem custos
+- Junto ao EC2 AutoScaling permite criar aplicação alatamente disponíveis
