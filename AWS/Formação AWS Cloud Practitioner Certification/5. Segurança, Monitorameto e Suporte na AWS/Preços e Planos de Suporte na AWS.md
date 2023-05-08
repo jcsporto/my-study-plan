@@ -57,6 +57,26 @@ Modelos de preço
     - Adquirir e gerenciar Savings Plans
 
 
-4.
+4. Faturamento consolidado
+    • Recurso do AWS Organizations
+    • Também chamado cobrança consolidada
+    • Permite visualizar os custos combinados de todas as contas
+        membro da sua organização
+    • Única fatura para todas as contas
+    • Benefício de compartilhar desconto por volume
+        Savings Plans e instâncias reservadas
+
+5. AWS Budgets
+    Criando orçamentos na nuvem
+    • Cria orçamento para planejar uso dos serviços
+    • Informações são atualizadas 3 vezes ao dia
+    • Pode definir alertas personalizados para quando uso exceder
+        valor orçado
 
 
+    • Gerencia orçamentos que podem ser criados pelo usuário
+    • Realiza previsões de custo (forecast)
+    • Integração e-mail/SNS (mensagem, ação com lambda)
+    • É possível visualizar custos por tags incluídas nos serviços
+
+6. 
