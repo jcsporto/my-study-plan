@@ -165,4 +165,14 @@ Modelos de preço
         • Apoia na revisão do Well Architected Framework
 
 
-    
+8. AWS Marketplace
+
+    AWS Marketplace
+        • Catálogo digital com ofertas de soluções de fornecedores
+        independentes de software
+        • Você pode procurar, testar e comprar software para ser
+        executado na AWS
+        • Toda oferta possui informações detalhadas de definição de
+        preço, suporte e avaliação de outros clientes
+        • Você também pode procurar soluções de software por setor
+        e caso de uso
