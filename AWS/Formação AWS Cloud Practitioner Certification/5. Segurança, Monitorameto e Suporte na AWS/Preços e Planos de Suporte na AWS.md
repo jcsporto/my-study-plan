@@ -79,4 +79,16 @@ Modelos de preço
     • Integração e-mail/SNS (mensagem, ação com lambda)
     • É possível visualizar custos por tags incluídas nos serviços
 
-6. 
+6. AWS Cost Explorer
+    Visualizando no detalhe custos
+    • Permite visualizar, interpretar e gerenciar custos ao longo do tempo
+    • Inclui um relatório básico dos custos
+    • Permite aplicar filtros e grupos personalizados para analisar dados
+
+    AWS Cost Explorer
+    • Análise de custo
+    • Previsões
+    • Reports
+    • Gráficos
+    • Filtros
+    • Tags
