@@ -92,3 +92,77 @@ Modelos de preço
     • Gráficos
     • Filtros
     • Tags
+
+
+7. Planos de suporte
+
+    Planos de suporte disponíveis
+    • Basic
+    • Developer
+    • Business
+    • Enterprise On-Ramp
+    • Entreprise
+
+    Plano Basic
+        • Gratuito, incluído para todos os clientes da AWS
+        • Acesso ao atendimento ao cliente 24/7
+        • Documentação
+        • Whitepapers
+        • AWS Trusted Advisor: recomendações de aumentar
+        performance e aprimorar segurança
+        • AWS Personal Health Dashboard
+
+    Plano Developer
+        • Recomendado se está experimentando ou testando AWS
+        • Tudo que o plano básico oferece
+        • Orientações gerais SLA de até 24 horas
+        • Sistemas afetados SLA de até 12 horas
+        • Orientações gerais de arquitetura
+        • AWS Trusted Advisor: verificações básicas de segurança e
+        Cotas de Serviço
+
+    Plano Business
+        • Nível mínimo recomendado para quem tem workloads em
+        produção
+        • Tudo que os planos anteriores incluem (Basic e Developer)
+        • Conjunto completo de verificações no AWS Trusted Advisor
+        • Contato direto por telefone com engenheiros de suporte a
+        nuvem: SLA de 4h para resposta e caso sistema afetado 1h
+        • Gerenciamento de eventos de infraestrutura
+        • Orientações de arquitetura com base nos seus casos de uso
+
+    
+    Plano Enterprise On-Ramp
+        • Recomendado para quem tem workloads essenciais à
+        produção ou aos negócios na AWS
+        • Inclui todos os benefícios dos planos anteriores
+        • SLA de resposta em caso de sistema essencial em menos de
+        30 minutos
+        • Orientações de arquitetura com análise consultiva de acordo
+        com as aplicações
+        • Grupo de gerentes de contas técnicos para fornecer
+        orientação
+
+    
+    Plano Enterprise
+        • Recomendado para quem tem negócios e/ou workloads
+        essenciais na AWS
+        • Inclui tudo dos planos anteriores
+        • AWS Trusted Advisor: Recomendações priorizadas por time
+        de contas
+        • SLA de resposta em caso de sistema essencial em menos
+        de 15 minutos
+        • Gerente técnico de conta (TAM) dedicado a conta
+        • Acesso a treinamentos
+
+    
+    Technical Account Manager
+        • TAM ou Gerente de conta técnico
+        • Faz parte da equipe de suporte
+        • São especialistas
+        • Fornecem apoio no gerenciamento de eventos de
+        infraestrutura
+        • Apoia na revisão do Well Architected Framework
+
+
+    
