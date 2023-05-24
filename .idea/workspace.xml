@@ -8,11 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="616d7ffc-fd33-43f4-8ae9-85920f5b1163" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Restart/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d7a2ac7c-1a3f-4149-bc5e-a71d761f08c3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d7a2ac7c-1a3f-4149-bc5e-a71d761f08c3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rails/DIO/File System/lista.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Rails/DIO/File System/lista.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rails/DIO/File System/read.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Rails/DIO/File System/read.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +78,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/porto/workstation/my-study-plan/Restart",
+    "last_opened_file_path": "/home/porto/workstation/my-study-plan",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -1522,6 +1518,7 @@
       <workItem from="1682715844941" duration="259000" />
       <workItem from="1683105802006" duration="184000" />
       <workItem from="1683107794837" duration="284000" />
+      <workItem from="1684917035542" duration="1293000" />
     </task>
     <servers />
   </component>
@@ -1544,7 +1541,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="contact_list" />
+                        <option value="rails_training" />
                       </list>
                     </value>
                   </entry>
