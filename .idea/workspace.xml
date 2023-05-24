@@ -8,7 +8,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="616d7ffc-fd33-43f4-8ae9-85920f5b1163" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Restart/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/d7a2ac7c-1a3f-4149-bc5e-a71d761f08c3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/d7a2ac7c-1a3f-4149-bc5e-a71d761f08c3.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rails/DIO/File System/lista.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Rails/DIO/File System/lista.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rails/DIO/File System/read.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Rails/DIO/File System/read.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +37,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="training" />
-                    <option name="lastUsedInstant" value="1680873587" />
+                    <option name="branchName" value="rails_training" />
+                    <option name="lastUsedInstant" value="1682500745" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="aws_traning" />
+                    <option name="lastUsedInstant" value="1682384874" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
@@ -67,25 +75,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/porto/workstation/my-study-plan&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
-    &quot;ruby.rails.projectView.checked&quot;: &quot;true&quot;,
-    &quot;ruby.structure.view.model.defaults.configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/porto/workstation/my-study-plan/Restart",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "ruby.rails.projectView.checked": "true",
+    "ruby.structure.view.model.defaults.configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Tasks N3/Algoritmos N1 - rspec/spec/lib" />
@@ -1506,6 +1514,14 @@
       <workItem from="1682030646208" duration="3978000" />
       <workItem from="1682126209662" duration="1292000" />
       <workItem from="1682162367602" duration="1221000" />
+      <workItem from="1682382624571" duration="2306000" />
+      <workItem from="1682420970360" duration="3508000" />
+      <workItem from="1682498116356" duration="2832000" />
+      <workItem from="1682590101818" duration="1235000" />
+      <workItem from="1682687261086" duration="3682000" />
+      <workItem from="1682715844941" duration="259000" />
+      <workItem from="1683105802006" duration="184000" />
+      <workItem from="1683107794837" duration="284000" />
     </task>
     <servers />
   </component>
@@ -1518,6 +1534,11 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
