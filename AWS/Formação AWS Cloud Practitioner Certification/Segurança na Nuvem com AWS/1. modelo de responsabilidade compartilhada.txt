@@ -1,0 +1,19 @@
+
+Responsabilidade do cliente x Responsabilidade da AWS
+
+- AWS: 
+    -Software
+        - Computação, Armazenamento, Banco de Dados, Redes
+    - Hardware
+        - Hardware/Infraestrutura Global da AWS 
+            Regióes, Zonas de Disponibilidade, Locais de Borda
+
+
+- cliente
+    - Dados do cliente  
+        - Plataforma, Aplicativos, Identity and Access Managenment
+        - Configuração do Sistema Operacional, da Rede e do Firewall
+        - Cripiografia de dados do lado do cliente
+        - Cripiografia do lado do Servidor
+        - Proteção de Tráfego de Rede
+
