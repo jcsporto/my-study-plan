@@ -5,7 +5,8 @@ Rails.application.routes.draw do
   # root "articles#index"
   root "articles#index"
 
-  get "/articles", to: "articles#index"
-  get "/articles/:id", to: "articles#show"
+  # O metodo resources mapeia todas as rotas convencionais para uma coleção de recursos.
+  # Por isso, subistituimos os gets por resources
+  resources :articles
 
 end
