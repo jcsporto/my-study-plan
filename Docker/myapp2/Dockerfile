@@ -1,4 +1,4 @@
-FROM ruby:3.2-alpine
+FROM ruby:2.7
 RUN apt-get update -qq && apt-get install -y nodejs postgresql-client
 WORKDIR /myapp2
 COPY Gemfile /myapp2/Gemfile
