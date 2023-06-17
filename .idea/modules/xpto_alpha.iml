@@ -13,18 +13,18 @@
     <shared />
   </component>
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$/../../Training/xpto_alpha">
-      <sourceFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/features" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/spec" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/test" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/.bundle" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/public/packs" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/vendor/bundle" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/vendor/cache" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/log" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/tmp" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/public/system" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Training/xpto_alpha/components" />
+    <content url="file://$MODULE_DIR$/../../Projects/Training/xpto_alpha">
+      <sourceFolder url="file://$MODULE_DIR$/../../Projects/Training/xpto_alpha/features" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Projects/Training/xpto_alpha/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../Projects/Training/xpto_alpha/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Projects/Training/xpto_alpha/.bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Projects/Training/xpto_alpha/components" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Projects/Training/xpto_alpha/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Projects/Training/xpto_alpha/public/packs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Projects/Training/xpto_alpha/public/system" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Projects/Training/xpto_alpha/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Projects/Training/xpto_alpha/vendor/bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Projects/Training/xpto_alpha/vendor/cache" />
     </content>
     <orderEntry type="jdk" jdkName="ruby-2.7.2-p137" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
