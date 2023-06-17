@@ -1,29 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="RUBY_MODULE" version="4">
-  <component name="FacetManager">
-    <facet type="RailsFacetType" name="Ruby on Rails">
-      <configuration>
-        <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_SUPPORT_REMOVED" VALUE="false" />
-        <RAILS_FACET_CONFIG_ID NAME="RAILS_TESTS_SOURCES_PATCHED" VALUE="true" />
-        <RAILS_FACET_CONFIG_ID NAME="RAILS_FACET_APPLICATION_ROOT" VALUE="$MODULE_DIR$/../../Tasks N3/Rspec Rails/test_like_a_hero" />
-      </configuration>
-    </facet>
-  </component>
-  <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$/../../Tasks N3/Rspec Rails/test_like_a_hero">
-      <sourceFolder url="file://$MODULE_DIR$/../../Tasks N3/Rspec Rails/test_like_a_hero/features" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../Tasks N3/Rspec Rails/test_like_a_hero/spec" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../Tasks N3/Rspec Rails/test_like_a_hero/test" isTestSource="true" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Tasks N3/Rspec Rails/test_like_a_hero/.bundle" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Tasks N3/Rspec Rails/test_like_a_hero/public/packs" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Tasks N3/Rspec Rails/test_like_a_hero/vendor/bundle" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Tasks N3/Rspec Rails/test_like_a_hero/vendor/cache" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Tasks N3/Rspec Rails/test_like_a_hero/log" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Tasks N3/Rspec Rails/test_like_a_hero/tmp" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Tasks N3/Rspec Rails/test_like_a_hero/public/system" />
-      <excludeFolder url="file://$MODULE_DIR$/../../Tasks N3/Rspec Rails/test_like_a_hero/components" />
-    </content>
-    <orderEntry type="jdk" jdkName="ruby-2.7.2-p137" jdkType="RUBY_SDK" />
-    <orderEntry type="sourceFolder" forTests="false" />
+<module version="4">
+  <component name="ModuleRunConfigurationManager">
+    <shared />
   </component>
 </module>

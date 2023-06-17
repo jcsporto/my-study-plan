@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dataSource name="Rails blog1: development">
-  <database-model serializer="dbm" dbms="POSTGRES" family-id="POSTGRES" format-version="4.43">
+  <database-model serializer="dbm" dbms="POSTGRES" family-id="POSTGRES" format-version="4.48">
     <root id="1">
       <ServerVersion>12.14</ServerVersion>
     </root>
