@@ -7,7 +7,6 @@
     <content url="file://$MODULE_DIR$/../../Rails/DIO/Metodotos e Gems" />
     <orderEntry type="jdk" jdkName="ruby-2.7.2-p137" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.4.8, ruby-2.7.2-p137) [gem]" level="application" />
   </component>
   <component name="RubyModuleProperties">
     <option name="autoCreated" value="true" />
