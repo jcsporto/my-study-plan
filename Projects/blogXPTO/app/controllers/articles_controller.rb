@@ -35,6 +35,10 @@ class ArticlesController < ApplicationController
     end
   end
 
+  def destroy
+    @article = Arcicle.find(params[:id])
+    @article.destroy
+  end
 
   private
   def article_params
