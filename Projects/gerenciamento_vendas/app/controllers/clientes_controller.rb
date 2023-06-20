@@ -11,6 +11,11 @@ class ClientesController < ApplicationController
     @cliente = Cliente.new
   end
 
-
-
+  def create
+    @cliente = Cliente.new(cliente_params)
+    if @cliente.save
+      redrect_to @cliente
+    end
+    render 'new'
+  end
 end
