@@ -18,4 +18,9 @@ class ClientesController < ApplicationController
     end
     render 'new'
   end
+
+  private
+  def cliente_params
+    params.require(:client).permit(:nome, :email)
+  end
 end
