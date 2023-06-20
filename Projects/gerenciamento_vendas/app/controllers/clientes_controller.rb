@@ -7,6 +7,10 @@ class ClientesController < ApplicationController
     @cliente = Cliente.find(params[:id])
   end
 
+  def new
+    @cliente = Cliente.new
+  end
+
 
 
 end
