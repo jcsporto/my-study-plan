@@ -1,3 +1,1 @@
 Missão Vaga
-
-Editando ...
