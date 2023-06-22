@@ -1,0 +1,37 @@
+rails <?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="Rails contatc_list: development">
+  <database-model serializer="dbm" dbms="POSTGRES" family-id="POSTGRES" format-version="4.48">
+    <root id="1"/>
+    <database id="2" parent="1" name="postgres"/>
+    <database id="3" parent="1" name="template1"/>
+    <database id="4" parent="1" name="template0"/>
+    <database id="5" parent="1" name="contact_list_development"/>
+    <database id="6" parent="1" name="Mission_development"/>
+    <database id="7" parent="1" name="Mission_test"/>
+    <database id="8" parent="1" name="contact_list_beta2_development"/>
+    <database id="9" parent="1" name="contact_list_beta2_test"/>
+    <database id="10" parent="1" name="app9_test"/>
+    <database id="11" parent="1" name="M2_development"/>
+    <database id="12" parent="1" name="M2_test"/>
+    <database id="13" parent="1" name="app7_development"/>
+    <database id="14" parent="1" name="app7_test"/>
+    <database id="15" parent="1" name="contatc_list_development">
+      <Current>1</Current>
+    </database>
+    <database id="16" parent="1" name="contatc_list_test"/>
+    <database id="17" parent="1" name="library_development"/>
+    <database id="18" parent="1" name="library_test"/>
+    <database id="19" parent="1" name="prototipo_development"/>
+    <database id="20" parent="1" name="prototipo_test"/>
+    <database id="21" parent="1" name="xpto_development"/>
+    <database id="22" parent="1" name="xpto_test"/>
+    <database id="23" parent="1" name="xpto2_development"/>
+    <database id="24" parent="1" name="xpto2_test"/>
+    <database id="25" parent="1" name="xpto3_development"/>
+    <database id="26" parent="1" name="xpto3_test"/>
+    <database id="27" parent="1" name="XPTO_development"/>
+    <database id="28" parent="1" name="XPTO_test"/>
+    <database id="29" parent="1" name="blog_development"/>
+    <database id="30" parent="1" name="blog_test"/>
+  </database-model>
+</dataSource>
