@@ -7,3 +7,6 @@ class Customer
   end
 end
 
+cust1 = Customer.new("1", "John", "Wisdom Apartments, Ludhiya")
+cust2 = Customer.new("2", "Paul", "New Empire road, khandala")
+
