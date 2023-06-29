@@ -1,3 +1,6 @@
+# https://www.tutorialspoint.com/ruby/ruby_operators.htm
+
+
 MR_COUNT = 0         # constant defined on main Object class
 module Foo
   MR_COUNT = 0
