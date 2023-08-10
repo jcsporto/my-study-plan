@@ -59,6 +59,28 @@ https://wa.aws.amazon.com/wat.pillars.wa-pillars.pt_BR.html
                 
                 b. 
 
+###################################################################
+
+Transforme os seus dados em insights
+https://www.youtube.com/watch?v=CVHXYIgkSoc&list=PLQHh55hXC4yrBZ4yookmQPlX2zM9dZ-MH
+
+
+Amazon Athena
+    Sql para consultar
+    Baseado em Presto, executa SQL padrão
+     
+
+Amazon QuickSight
+    
+
+
+Amazon Glue 
+    Cria pipelines ETL controlado por eventos
+
+
+
+
+
 
 
 
