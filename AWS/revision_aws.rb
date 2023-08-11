@@ -77,6 +77,15 @@ Amazon QuickSight
 Amazon Glue 
     Cria pipelines ETL controlado por eventos
 
+###################################################################
+
+Amazon MQ
+Os agentes de mensagens permitem que sistemas de software, que geralmente usam diferentes 
+linguagens de programação em várias plataformas, se comuniquem e troquemm informações. o
+Amanzon MQ é um serviço qde agente de mensages gerenciado para Apache ActiveMQ e RabbitMQ
+que simplifica a configuração, a operaçõa e o gerenciamento de agentes de mensagens na AWS.
+Com alguma etapas, o Amazon MQ pode provisionar seu agente de mensagens com suporte para 
+atualizaçãoes de versões de software.
 
 
 
