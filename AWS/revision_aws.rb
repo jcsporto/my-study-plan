@@ -75,7 +75,27 @@ Amazon QuickSight
 
 
 Amazon Glue 
-    Cria pipelines ETL controlado por eventos
+É um serviço de integração de dados com tecnologi sem servidor que facilita aos usuários de 
+análise a descoberta, preparação, transferencia e integração de dados de várias fontes. Voce pode
+usá-lo para análise, machine learning e desenvolvimento de aplicações. Também inclui outras
+ferramentas de produtividade e operações de dados para criação execução de trabalhos e implementação 
+de fluxos de trabalho de negócios
+
+
+Com AWS Glue, você pode detectar e se conectar a masi de 70 fontes de dados deversas e gerenciar
+seus dados em um catálogo de dados centralizado. Voce pode criar, executar e monitorar visualmente
+pipelines de extração, transformação e carregamento (ETL) para carregar dados em seus data lackes. 
+Além disso, é possível pesquisar e consultar imediatamente os dados do catalogados usandos 
+    Amazom Athena, o Amazom EMR e o Amazon Redshift Spectrum.
+
+
+
+
+
+
+
+
+
 
 ###################################################################
 
@@ -86,6 +106,11 @@ Amanzon MQ é um serviço qde agente de mensages gerenciado para Apache ActiveMQ
 que simplifica a configuração, a operaçõa e o gerenciamento de agentes de mensagens na AWS.
 Com alguma etapas, o Amazon MQ pode provisionar seu agente de mensagens com suporte para 
 atualizaçãoes de versões de software.
+
+
+Amazon EMR 
+É a solução de big data em nuvem líder do setor para processamento de dados, análise interativa
+    e machine learning que usa estruturas de código aberto, como Apache Spark, Apache Hive e Presto
 
 
 
