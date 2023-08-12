@@ -148,7 +148,22 @@ Fargate
     - Permite que voce se concentre no desenvolvimento de aplicações sem a necessidade
     de gerenciar servidores
 
+###################################################################
 
+AWS Batch
+    - Execute centenas de milhares de trabalhos computacionais em lote e machine learnig(ML)
+    sem a instalação de software ou servidores
+
+    - Faça a ingegração nativa com a AWS para implementar recursos de escalonamento, rede editor
+    gerenciamento 
+
+    - Reduza custos ao otimizar a distribuição de trabalhos computacionais baseados em 
+    volume e requisitos de recursos.
+
+    - Escale os recursos computacionais automaticamente como a infraestrutura gerenciada
+    que fornece suporte ao processamento e simulações de larga escala 
+
+    
 
 
 
