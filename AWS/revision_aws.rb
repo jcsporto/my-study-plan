@@ -116,7 +116,28 @@ Amazon EMR
 
 
 
+###################################################################
 
+Amazon Lightsail
+O amazon Lightsail oferece instancia de servidor privado (VPS)fáceis de usar, 
+contêineres, armazenamento, banco de dados
+
+    - Execute aplicações Web simples
+        Use pilhas de desenvolvimento pré-configuradas como LAMP, Nginx, MEAN e Node.js 
+        para ficar online de forma rápida e fácil 
+
+    - Crie sites personalizados
+        Crie e personalize seu blog, comércio eletronico ou site pessoal em apenas alguns
+        clicks, com aplicações pré-configuradas como WordPress, Magento, Prestashop e Joomia
+
+
+    - Crie aplicações para pequenas empresas
+        Lance software de linha de negócios, como armazenamento e compartilhamento de arquivos
+        backups, softwares financeiros e contábil
+
+    - Abientes de teste de giro 
+        Crie e exclua facilmente caixs de proteção de desenvolvimento e ambientes de teste onde 
+        voce pode experimentar novas ideias sem riscos
 
 
 ###################################################################
