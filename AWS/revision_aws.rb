@@ -163,7 +163,17 @@ AWS Batch
     - Escale os recursos computacionais automaticamente como a infraestrutura gerenciada
     que fornece suporte ao processamento e simulações de larga escala 
 
-    
+
+O AWS Batch permite que desenvolvedores, cientistas e engenheiros executem com eficiencia
+milhares de tarefas de computação em lote e em ML enquanto otimizam recurso computacionais
+para que voce possa se concentrar na análise de resultado e na solução de problemas
+
+
+
+###################################################################
+
+AWS Step Functions 
+
 
 
 
