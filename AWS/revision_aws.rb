@@ -139,6 +139,19 @@ contêineres, armazenamento, banco de dados
         Crie e exclua facilmente caixs de proteção de desenvolvimento e ambientes de teste onde 
         voce pode experimentar novas ideias sem riscos
 
+###################################################################
+
+Fargate
+    - Computação sem servidor
+
+    - É um mecanismo de computação com tecnologia sem servidor
+    - Permite que voce se concentre no desenvolvimento de aplicações sem a necessidade
+    de gerenciar servidores
+
+
+
+
+
 
 ###################################################################
 
