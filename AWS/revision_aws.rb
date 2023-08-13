@@ -89,7 +89,10 @@ Além disso, é possível pesquisar e consultar imediatamente os dados do catalo
     Amazom Athena, o Amazom EMR e o Amazon Redshift Spectrum.
 
 
-
+        - criar, executa e monitorar visualmente pipelines de:
+            - extração
+            - transformação 
+            - carregamento (ETL)
 
 
 
@@ -173,7 +176,15 @@ para que voce possa se concentrar na análise de resultado e na solução de pro
 ###################################################################
 
 AWS Step Functions 
+Fluxos de trabalhos visuais para aplicações distribuídas
+    - Comece a 
 
+
+
+
+É um serviço de fluxo de trabalho visual que ajuda os desenvolvedores a usar os produtos
+da AWS para desenvolver aplicações distribuídas, automatizar processos, orquestrar
+microserviços e criar pipelines de dados e machine learning 
 
 
 
@@ -190,9 +201,32 @@ AWS Step Functions
 Well-Arch
     - Confiabilidade
 
-
+###################################################################
 API Gateway
 
+O Amazon API Gateway é um serviço gerenciado que permite que desenvolvedores criem, 
+publiquem, mantenham, monitorem e protejam APIs em qualquer escala com facilidade. 
+APIs agem como "porta de entrada" para aplicativos acessarem dados, lógica de negócios ou 
+funcionalidade de seus serviços de back-end. Usando o API Gateway, voce pode criar
+APIs do RESTfull e APIs do WebSocket que habilitam aplicativos de comunicação bidirecionai
+em tempo real. O API Gateway dá suporte a cargas de trabalho conteinerizadas e sem servidor, além de app da web.
+
+O API Gateway administra todoas as tarefas envolvidas no recebimento e processamento de até
+centenas de milhares de chamadas de API simultaneas, inclusive gerenciamento de tráfego, suporte de CORS, 
+controle de autorização e acesso, com fluxo controlado, monitoramento e gerenciamento de 
+versões de API. O API Gateway não tem taxas mínimas o custos antecipados. Você paga apenas pelas chamadas de API recebidas
+e pela quantidade de transfencia de dados de saída. Além disso, com o modelo de definição
+de preço em camadas do API Gateway, voce pode reduzir os custos à medida que seu uso da API é 
+    escalado
+
+
+
+
+
+
+
+
+###################################################################
 aws Certificate Manager
 
 
@@ -314,5 +348,40 @@ Você precisa implementar no seu site uma funcionalidade para realizar pesquisas
 
 
     
+########################################################################################################
+Amazon OpenSearch
+    - facilita a execução de log interativas, o monitoramento de aplicações em tempo real, 
+    pesquisas de sites
+
+
+#######################################################################################################
+Haddop 
+    É um serviço disponível dentro da plataforma EMR
+
+#######################################################################################################
+Redshift
+    é um serviço utilizado para BI (Business Inteligence)
+
+#######################################################################################################
+Kinessis
+    é um serviço de transferência de dados  em tempo real em streaming de diversos serviços e 
+    aplicativos para repositórios da AWS 
+
+
+
+
+
+
+#######################################################################################################
+
+SES - Simple Email Service
+    Além de permitir o alcane dos clientes  por e-mail sem um sistema de SMTP(Simle Mail Transfer Protocol),
+    o Simple Email Service(SES) por ser integrado em diversos serviços da AWS para enviar mensagens por 
+    email sobre a evolução de processos, implatações e alertas de monitoramento
+
+
+SNS 
+    É um serviço de Pub/Sub que utiliza tópicos para que a partir de uma mensagem publicada, tosos os 
+    assinantes possam acessá-la
 
 
