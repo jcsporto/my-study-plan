@@ -89,7 +89,10 @@ Além disso, é possível pesquisar e consultar imediatamente os dados do catalo
     Amazom Athena, o Amazom EMR e o Amazon Redshift Spectrum.
 
 
-
+        - criar, executa e monitorar visualmente pipelines de:
+            - extração
+            - transformação 
+            - carregamento (ETL)
 
 
 
@@ -116,6 +119,73 @@ Amazon EMR
 
 
 
+###################################################################
+
+Amazon Lightsail
+O amazon Lightsail oferece instancia de servidor privado (VPS)fáceis de usar, 
+contêineres, armazenamento, banco de dados
+
+    - Execute aplicações Web simples
+        Use pilhas de desenvolvimento pré-configuradas como LAMP, Nginx, MEAN e Node.js 
+        para ficar online de forma rápida e fácil 
+
+    - Crie sites personalizados
+        Crie e personalize seu blog, comércio eletronico ou site pessoal em apenas alguns
+        clicks, com aplicações pré-configuradas como WordPress, Magento, Prestashop e Joomia
+
+
+    - Crie aplicações para pequenas empresas
+        Lance software de linha de negócios, como armazenamento e compartilhamento de arquivos
+        backups, softwares financeiros e contábil
+
+    - Abientes de teste de giro 
+        Crie e exclua facilmente caixs de proteção de desenvolvimento e ambientes de teste onde 
+        voce pode experimentar novas ideias sem riscos
+
+###################################################################
+
+Fargate
+    - Computação sem servidor
+
+    - É um mecanismo de computação com tecnologia sem servidor
+    - Permite que voce se concentre no desenvolvimento de aplicações sem a necessidade
+    de gerenciar servidores
+
+###################################################################
+
+AWS Batch
+    - Execute centenas de milhares de trabalhos computacionais em lote e machine learnig(ML)
+    sem a instalação de software ou servidores
+
+    - Faça a ingegração nativa com a AWS para implementar recursos de escalonamento, rede editor
+    gerenciamento 
+
+    - Reduza custos ao otimizar a distribuição de trabalhos computacionais baseados em 
+    volume e requisitos de recursos.
+
+    - Escale os recursos computacionais automaticamente como a infraestrutura gerenciada
+    que fornece suporte ao processamento e simulações de larga escala 
+
+
+O AWS Batch permite que desenvolvedores, cientistas e engenheiros executem com eficiencia
+milhares de tarefas de computação em lote e em ML enquanto otimizam recurso computacionais
+para que voce possa se concentrar na análise de resultado e na solução de problemas
+
+
+
+###################################################################
+
+AWS Step Functions 
+Fluxos de trabalhos visuais para aplicações distribuídas
+    - Comece a 
+
+
+
+
+É um serviço de fluxo de trabalho visual que ajuda os desenvolvedores a usar os produtos
+da AWS para desenvolver aplicações distribuídas, automatizar processos, orquestrar
+microserviços e criar pipelines de dados e machine learning 
+
 
 
 
@@ -131,9 +201,32 @@ Amazon EMR
 Well-Arch
     - Confiabilidade
 
-
+###################################################################
 API Gateway
 
+O Amazon API Gateway é um serviço gerenciado que permite que desenvolvedores criem, 
+publiquem, mantenham, monitorem e protejam APIs em qualquer escala com facilidade. 
+APIs agem como "porta de entrada" para aplicativos acessarem dados, lógica de negócios ou 
+funcionalidade de seus serviços de back-end. Usando o API Gateway, voce pode criar
+APIs do RESTfull e APIs do WebSocket que habilitam aplicativos de comunicação bidirecionai
+em tempo real. O API Gateway dá suporte a cargas de trabalho conteinerizadas e sem servidor, além de app da web.
+
+O API Gateway administra todoas as tarefas envolvidas no recebimento e processamento de até
+centenas de milhares de chamadas de API simultaneas, inclusive gerenciamento de tráfego, suporte de CORS, 
+controle de autorização e acesso, com fluxo controlado, monitoramento e gerenciamento de 
+versões de API. O API Gateway não tem taxas mínimas o custos antecipados. Você paga apenas pelas chamadas de API recebidas
+e pela quantidade de transfencia de dados de saída. Além disso, com o modelo de definição
+de preço em camadas do API Gateway, voce pode reduzir os custos à medida que seu uso da API é 
+    escalado
+
+
+
+
+
+
+
+
+###################################################################
 aws Certificate Manager
 
 
@@ -255,5 +348,40 @@ Você precisa implementar no seu site uma funcionalidade para realizar pesquisas
 
 
     
+########################################################################################################
+Amazon OpenSearch
+    - facilita a execução de log interativas, o monitoramento de aplicações em tempo real, 
+    pesquisas de sites
+
+
+#######################################################################################################
+Haddop 
+    É um serviço disponível dentro da plataforma EMR
+
+#######################################################################################################
+Redshift
+    é um serviço utilizado para BI (Business Inteligence)
+
+#######################################################################################################
+Kinessis
+    é um serviço de transferência de dados  em tempo real em streaming de diversos serviços e 
+    aplicativos para repositórios da AWS 
+
+
+
+
+
+
+#######################################################################################################
+
+SES - Simple Email Service
+    Além de permitir o alcane dos clientes  por e-mail sem um sistema de SMTP(Simle Mail Transfer Protocol),
+    o Simple Email Service(SES) por ser integrado em diversos serviços da AWS para enviar mensagens por 
+    email sobre a evolução de processos, implatações e alertas de monitoramento
+
+
+SNS 
+    É um serviço de Pub/Sub que utiliza tópicos para que a partir de uma mensagem publicada, tosos os 
+    assinantes possam acessá-la
 
 
