@@ -385,3 +385,8 @@ SNS
     assinantes possam acessá-la
 
 
+SQS 
+é o sistema de mensageria que possibilita o desacoplamento de microserviços
+
+
+#######################################################################################################
