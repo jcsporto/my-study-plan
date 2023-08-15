@@ -390,3 +390,16 @@ SQS
 
 
 #######################################################################################################
+
+AWS Cloud Search
+    É um serviço gerenciado na AWS que torna simples e economico configurar, gerenciar e dimensionar
+    uma solução de pesquisa para seu site ou aplicativos
+
+
+#######################################################################################################
+
+Amazon ElastiCache
+    - Serviço gerenciado
+    - Compativel com Redis e Memcached
+    - Oferece desempenho em tempo real e custo otimizado para aplicativos modernos
+    - Escala 
