@@ -390,3 +390,45 @@ SQS
 
 
 #######################################################################################################
+
+AWS Cloud Search
+    É um serviço gerenciado na AWS que torna simples e economico configurar, gerenciar e dimensionar
+    uma solução de pesquisa para seu site ou aplicativos
+
+
+#######################################################################################################
+
+Amazon ElastiCache
+    - Serviço gerenciado
+    - Compativel com Redis e Memcached
+    - Oferece desempenho em tempo real e custo otimizado para aplicativos modernos
+    - Escala 
+
+#######################################################################################################
+
+AWS CodeStar
+O AWS CodeStar permite que você desenvolva, compile e implante rapidamente aplicativos na AWS.
+
+
+
+#######################################################################################################
+Parameter Store
+O Parameter Store, um recurso do AWS Systems Manager, já oferece suporte a até 10.000 
+Transactions Per Second (TPS – Transações por segundo) para as APIs GetParameter e GetParameters.
+
+
+
+
+#######################################################################################################
+Secrets Manager 
+    tem a funçãop de gerenciar, recuperar e alternar credenciais de acesso a banco de dados, chaves de API e outros
+    segredos ao longo de seus ciclos de vida. Com esse serviço é possivel programar a alteração das credenciasis sem 
+    interromper o serviço
+
+
+#######################################################################################################
+Menaged Services é o serviço que fornece recursos proativos, preventivos e de detecção que elevam o nível operacional e 
+ajudam a reduzir riscos sem restringir a agilidade, permitindo que voce se concetre na inovação e reduza o custo operacioanl
+da sua empresxa
+
+
