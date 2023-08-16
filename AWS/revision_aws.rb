@@ -438,4 +438,4 @@ PDF
 RSS
 O pilar Excelência operacional inclui a capacidade de oferecer suporte ao desenvolvimento e de executar cargas de trabalho com eficácia, obter insights sobre as operações e melhorar continuamente processos e procedimentos de suporte para oferecer valor empresarial.
 
-O pilar Excelência operacional apresenta uma visão geral dos princípios de design, das melhores práticas e das perguntas. Você pode encontrar orientações prescritivas sobre implementação no whitepaper sobre o pilar de excelência operacional.
+O pilar Excelência operacional apresenta uma visão geral dos princípios de design, das melhores práticas e das perguntas. Você pode encontrar orientações prescritivas sobre implementação no whitepaper sobre o pilar de excelência operacional
