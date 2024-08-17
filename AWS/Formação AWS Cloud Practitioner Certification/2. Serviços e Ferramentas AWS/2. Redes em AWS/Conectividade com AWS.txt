@@ -1,5 +1,0 @@
-https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/VPC_Internet_Gateway.html
-
-https://www.youtube.com/watch?v=-e2yw1STfNo
-
-https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/vpn-connections.html

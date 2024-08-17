@@ -1,8 +1,0 @@
-Amazom VPC
-
-VPC - Virtual Private Cloud
-- Permite construir e configurar redes virtuais na AWS
-- Sub-redes: privadas e públicas
-- "Tudo começa dentro de um VPC"
-
-
